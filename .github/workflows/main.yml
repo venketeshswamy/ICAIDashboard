@@ -1,0 +1,41 @@
+name: ICAI Scraper (Every 3 Hours)
+
+on:
+  schedule:
+    # Cron syntax: Minute(0) Hour(*/3) Day(*) Month(*) DayOfWeek(*)
+    # This runs at 00:00, 03:00, 06:00, 09:00, etc. UTC
+    - cron: '0 */3 * * *'
+  
+  # This allows you to click a button to run it manually immediately
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Scraper
+        run: python scraper.py
+
+      - name: Commit and Push Data
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add icai_data.csv
+          # Only commit if data actually changed
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update batch data" && git push)
