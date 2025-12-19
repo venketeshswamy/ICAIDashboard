@@ -39,3 +39,4 @@ jobs:
           git add icai_async_data_v5.csv
           # Only commit if data actually changed
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update batch data" && git push)
+          git push -f origin main
