@@ -1,5 +1,4 @@
 # --- STEP 1: Install necessary libraries (Run this once in Colab) ---
-!pip install nest_asyncio aiohttp pandas beautifulsoup4
 
 import asyncio
 import aiohttp
