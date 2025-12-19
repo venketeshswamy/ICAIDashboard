@@ -30,7 +30,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Scraper
-        run: scraper.py
+        run: python scraper.py
 
       - name: Commit and Push Data
         run: |
