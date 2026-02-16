@@ -1,275 +1,253 @@
 Region,Pou,Selected_Course,Batch No,Available Seats,From Date,To Date,Batch Time,Pou Name,Course,Open For,Registration Start Date
-Central,BIKANER,Advanced (ICITSS) MCS Course,AdvICITSSMCS__BIKANER_16,50,13/03/2026,02/04/2026,10-30-AM to 4-30-PM,BIKANER,Advanced (ICITSS) MCS Course,General,
 Central,ALWAR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__ALWAR_2,48,27/02/2026,18/03/2026,10-0-AM to 5-0-PM,ALWAR,Advanced (ICITSS) MCS Course,General,
+Central,JABALPUR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__JABALPUR_7,29,23/02/2026,14/03/2026,11-0-AM to 5-0-PM,JABALPUR,Advanced (ICITSS) MCS Course,General,
 Central,DHANBAD,Advanced (ICITSS) MCS Course,AdvICITSSMCS__DHANBAD_7,50,30/03/2026,17/04/2026,10-0-AM to 4-0-PM,DHANBAD,Advanced (ICITSS) MCS Course,General,
-Central,DEHRADUN,Advanced (ICITSS) MCS Course,AdvICITSSMCS__DEHRADUN_9,48,20/03/2026,10/04/2026,10-0-AM to 5-0-PM,DEHRADUN,Advanced (ICITSS) MCS Course,General,
+Central,BIKANER,Advanced (ICITSS) MCS Course,AdvICITSSMCS__BIKANER_16,50,13/03/2026,02/04/2026,10-30-AM to 4-30-PM,BIKANER,Advanced (ICITSS) MCS Course,General,
 Central,GautamBudhaNagar,Advanced (ICITSS) MCS Course,AdvICITSSMCS__GautamBudhaNagar_36,39,06/04/2026,23/04/2026,10-0-AM to 5-0-PM,GautamBudhaNagar,Advanced (ICITSS) MCS Course,General,
 Central,KOTA,Advanced (ICITSS) MCS Course,AdvICITSSMCS__KOTA_10,50,25/02/2026,14/03/2026,11-0-AM to 5-30-PM,KOTA,Advanced (ICITSS) MCS Course,General,
-Central,MEERUT,Advanced (ICITSS) MCS Course,AdvICITSSMCS__MEERUT_12,5,21/02/2026,11/03/2026,10-0-AM to 4-30-PM,MEERUT,Advanced (ICITSS) MCS Course,General,
 Central,JAIPUR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__JAIPUR_70,0,17/02/2026,09/03/2026,10-30-AM to 5-0-PM,JAIPUR,Advanced (ICITSS) MCS Course,General,
 Central,JAIPUR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__JAIPUR_71,27,10/03/2026,27/03/2026,10-30-AM to 5-0-PM,JAIPUR,Advanced (ICITSS) MCS Course,General,
-Central,JABALPUR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__JABALPUR_7,29,23/02/2026,14/03/2026,11-0-AM to 5-0-PM,JABALPUR,Advanced (ICITSS) MCS Course,General,
-Central,MATHURA,Advanced (ICITSS) MCS Course,AdvICITSSMCS__MATHURA_7,47,09/03/2026,27/03/2026,10-30-AM to 4-30-PM,MATHURA,Advanced (ICITSS) MCS Course,General,
-Central,KISHANGARH,Advanced (ICITSS) MCS Course,AdvICITSSMCS__KISHANGARH_4,49,12/03/2026,31/03/2026,10-0-AM to 4-30-PM,KISHANGARH,Advanced (ICITSS) MCS Course,General,
-Central,GHAZIABAD,Advanced (ICITSS) MCS Course,AdvICITSSMCS__GHAZIABAD_14,40,24/02/2026,14/03/2026,10-0-AM to 5-0-PM,GHAZIABAD,Advanced (ICITSS) MCS Course,General,
 Central,Haldwani,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Haldwani_3,30,09/03/2026,26/03/2026,11-0-AM to 5-0-PM,Haldwani,Advanced (ICITSS) MCS Course,General,
-Central,PATNA,Advanced (ICITSS) MCS Course,AdvICITSSMCS__PATNA_17,33,09/03/2026,25/03/2026,10-0-AM to 4-30-PM,PATNA,Advanced (ICITSS) MCS Course,General,
-Central,MUZAFFARNAGAR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__MUZAFFARNAGAR_11,30,02/03/2026,23/03/2026,10-0-AM to 4-0-PM,MUZAFFARNAGAR,Advanced (ICITSS) MCS Course,General,
+Central,KISHANGARH,Advanced (ICITSS) MCS Course,AdvICITSSMCS__KISHANGARH_4,49,12/03/2026,31/03/2026,10-0-AM to 4-30-PM,KISHANGARH,Advanced (ICITSS) MCS Course,General,
 Central,RAIPUR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__RAIPUR_24,25,19/02/2026,11/03/2026,10-30-AM to 5-30-PM,RAIPUR,Advanced (ICITSS) MCS Course,General,
-Central,INDORE,AICITSS - Advanced Information Technology,AICITSSAdvITT__INDORE_63,6,18/02/2026,07/03/2026,7-0-AM to 1-0-PM,INDORE,AICITSS - Advanced Information Technology,General,06/02/2026
+Central,DEHRADUN,Advanced (ICITSS) MCS Course,AdvICITSSMCS__DEHRADUN_9,48,20/03/2026,10/04/2026,10-0-AM to 5-0-PM,DEHRADUN,Advanced (ICITSS) MCS Course,General,
+Central,PATNA,Advanced (ICITSS) MCS Course,AdvICITSSMCS__PATNA_17,33,09/03/2026,25/03/2026,10-0-AM to 4-30-PM,PATNA,Advanced (ICITSS) MCS Course,General,
+Central,GHAZIABAD,Advanced (ICITSS) MCS Course,AdvICITSSMCS__GHAZIABAD_14,40,24/02/2026,14/03/2026,10-0-AM to 5-0-PM,GHAZIABAD,Advanced (ICITSS) MCS Course,General,
+Central,MEERUT,Advanced (ICITSS) MCS Course,AdvICITSSMCS__MEERUT_12,5,21/02/2026,11/03/2026,10-0-AM to 4-30-PM,MEERUT,Advanced (ICITSS) MCS Course,General,
+Central,MUZAFFARNAGAR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__MUZAFFARNAGAR_11,30,02/03/2026,23/03/2026,10-0-AM to 4-0-PM,MUZAFFARNAGAR,Advanced (ICITSS) MCS Course,General,
 Central,ALWAR,AICITSS - Advanced Information Technology,AICITSSAdvITT__ALWAR_7,20,26/02/2026,17/03/2026,2-0-PM to 8-0-PM,ALWAR,AICITSS - Advanced Information Technology,General,29/11/2025
+Central,MATHURA,Advanced (ICITSS) MCS Course,AdvICITSSMCS__MATHURA_7,47,09/03/2026,27/03/2026,10-30-AM to 4-30-PM,MATHURA,Advanced (ICITSS) MCS Course,General,
 Central,SIKAR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__SIKAR_7,49,16/03/2026,06/04/2026,10-0-AM to 5-0-PM,SIKAR,Advanced (ICITSS) MCS Course,General,
-Central,BHILWARA,AICITSS - Advanced Information Technology,AICITSSAdvITT__BHILWARA_17,23,23/02/2026,14/03/2026,11-0-AM to 5-0-PM,BHILWARA,AICITSS - Advanced Information Technology,General,18/11/2025
-Central,GautamBudhaNagar,AICITSS - Advanced Information Technology,AICITSSAdvITT__GautamBudhaNagar_32,30,06/03/2026,24/03/2026,10-0-AM to 4-0-PM,GautamBudhaNagar,AICITSS - Advanced Information Technology,General,09/02/2026
-Central,BHOPAL,AICITSS - Advanced Information Technology,AICITSSAdvITT__BHOPAL_20,22,20/02/2026,11/03/2026,8-0-AM to 2-0-PM,BHOPAL,AICITSS - Advanced Information Technology,General,05/02/2026
-Central,DHANBAD,AICITSS - Advanced Information Technology,AICITSSAdvITT__DHANBAD_12,14,17/02/2026,03/03/2026,8-0-AM to 2-0-PM,DHANBAD,AICITSS - Advanced Information Technology,General,20/12/2025
-Central,JAIPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__JAIPUR_81,0,10/03/2026,28/03/2026,10-30-AM to 4-30-PM,JAIPUR,AICITSS - Advanced Information Technology,General,
-Central,GWALIOR,AICITSS - Advanced Information Technology,AICITSSAdvITT__GWALIOR_7,17,24/03/2026,14/04/2026,11-0-AM to 5-0-PM,GWALIOR,AICITSS - Advanced Information Technology,General,05/02/2026
-Central,MEERUT,AICITSS - Advanced Information Technology,AICITSSAdvITT__MEERUT_11,10,12/03/2026,30/03/2026,10-0-AM to 4-0-PM,MEERUT,AICITSS - Advanced Information Technology,General,28/11/2025
-Central,KISHANGARH,AICITSS - Advanced Information Technology,AICITSSAdvITT__KISHANGARH_12,17,06/03/2026,25/03/2026,10-0-AM to 4-0-PM,KISHANGARH,AICITSS - Advanced Information Technology,General,01/12/2025
 Central,JABALPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__JABALPUR_15,10,23/02/2026,14/03/2026,8-0-AM to 2-0-PM,JABALPUR,AICITSS - Advanced Information Technology,General,06/02/2026
 Central,JABALPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__JABALPUR_14,4,16/03/2026,06/04/2026,11-0-AM to 5-0-PM,JABALPUR,AICITSS - Advanced Information Technology,General,28/01/2026
-Northern,AMBALA,Advanced (ICITSS) MCS Course,AdvICITSSMCS__AMBALA_7,20,09/03/2026,27/03/2026,10-0-AM to 4-0-PM,AMBALA,Advanced (ICITSS) MCS Course,General,
+Central,JODHPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__JODHPUR_23,24,23/02/2026,14/03/2026,7-15-AM to 1-15-PM,JODHPUR,AICITSS - Advanced Information Technology,General,23/12/2025
+Central,DHANBAD,AICITSS - Advanced Information Technology,AICITSSAdvITT__DHANBAD_12,14,17/02/2026,03/03/2026,8-0-AM to 2-0-PM,DHANBAD,AICITSS - Advanced Information Technology,General,20/12/2025
+Central,ALWAR,ICITSS - Information Technology,ICITSSITT__ALWAR_17,19,04/03/2026,23/03/2026,2-0-PM to 8-0-PM,ALWAR,ICITSS - Information Technology,General,27/01/2026
+Central,BEAWAR,ICITSS - Information Technology,ICITSSITT__BEAWAR_18,8,12/03/2026,26/03/2026,2-0-PM to 8-0-PM,BEAWAR,ICITSS - Information Technology,General,31/12/2025
+Central,JAIPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__JAIPUR_81,0,10/03/2026,28/03/2026,10-30-AM to 4-30-PM,JAIPUR,AICITSS - Advanced Information Technology,General,
+Central,BHILWARA,AICITSS - Advanced Information Technology,AICITSSAdvITT__BHILWARA_17,23,23/02/2026,14/03/2026,11-0-AM to 5-0-PM,BHILWARA,AICITSS - Advanced Information Technology,General,18/11/2025
+Central,GautamBudhaNagar,AICITSS - Advanced Information Technology,AICITSSAdvITT__GautamBudhaNagar_32,30,06/03/2026,24/03/2026,10-0-AM to 4-0-PM,GautamBudhaNagar,AICITSS - Advanced Information Technology,General,09/02/2026
+Central,GWALIOR,AICITSS - Advanced Information Technology,AICITSSAdvITT__GWALIOR_7,17,24/03/2026,14/04/2026,11-0-AM to 5-0-PM,GWALIOR,AICITSS - Advanced Information Technology,General,05/02/2026
+Central,BHOPAL,AICITSS - Advanced Information Technology,AICITSSAdvITT__BHOPAL_20,22,20/02/2026,11/03/2026,8-0-AM to 2-0-PM,BHOPAL,AICITSS - Advanced Information Technology,General,05/02/2026
 Central,KANPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__KANPUR_13,8,17/02/2026,07/03/2026,10-0-AM to 4-0-PM,KANPUR,AICITSS - Advanced Information Technology,General,13/01/2026
+Central,AGRA,ICITSS - Information Technology,ICITSSITT__AGRA_29,0,02/03/2026,19/03/2026,11-0-AM to 5-0-PM,AGRA,ICITSS - Information Technology,General,
+Eastern,ASANSOL,Advanced (ICITSS) MCS Course,AdvICITSSMCS__ASANSOL_4,50,10/03/2026,28/03/2026,10-30-AM to 5-0-PM,ASANSOL,Advanced (ICITSS) MCS Course,General,
+Central,INDORE,AICITSS - Advanced Information Technology,AICITSSAdvITT__INDORE_63,6,18/02/2026,07/03/2026,7-0-AM to 1-0-PM,INDORE,AICITSS - Advanced Information Technology,General,06/02/2026
+Central,KISHANGARH,AICITSS - Advanced Information Technology,AICITSSAdvITT__KISHANGARH_12,17,06/03/2026,25/03/2026,10-0-AM to 4-0-PM,KISHANGARH,AICITSS - Advanced Information Technology,General,01/12/2025
+Central,MEERUT,AICITSS - Advanced Information Technology,AICITSSAdvITT__MEERUT_11,10,12/03/2026,30/03/2026,10-0-AM to 4-0-PM,MEERUT,AICITSS - Advanced Information Technology,General,28/11/2025
+Central,RAIPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__RAIPUR_43,0,19/02/2026,11/03/2026,10-30-AM to 4-30-PM,RAIPUR,AICITSS - Advanced Information Technology,General,
+Central,PALI,AICITSS - Advanced Information Technology,AICITSSAdvITT__PALI_3,20,10/03/2026,27/03/2026,10-30-AM to 4-30-PM,PALI,AICITSS - Advanced Information Technology,General,12/08/2025
+Central,GHAZIABAD,AICITSS - Advanced Information Technology,AICITSSAdvITT__GHAZIABAD_44,1,24/02/2026,14/03/2026,8-0-AM to 2-0-PM,GHAZIABAD,AICITSS - Advanced Information Technology,General,20/01/2026
 Eastern,EIRC,Advanced (ICITSS) MCS Course,AdvICITSSMCS__EIRC_109,0,05/03/2026,23/03/2026,7-45-AM to 2-15-PM,EIRC,Advanced (ICITSS) MCS Course,General,
 Eastern,EIRC,Advanced (ICITSS) MCS Course,AdvICITSSMCS__EIRC_110,23,05/03/2026,23/03/2026,2-30-PM to 9-0-PM,EIRC,Advanced (ICITSS) MCS Course,General,
 Eastern,EIRC,Advanced (ICITSS) MCS Course,AdvICITSSMCS__EIRC_107,39,19/03/2026,08/04/2026,7-45-AM to 2-15-PM,EIRC,Advanced (ICITSS) MCS Course,General,
-Central,GHAZIABAD,AICITSS - Advanced Information Technology,AICITSSAdvITT__GHAZIABAD_44,1,24/02/2026,14/03/2026,8-0-AM to 2-0-PM,GHAZIABAD,AICITSS - Advanced Information Technology,General,20/01/2026
-Central,JODHPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__JODHPUR_23,24,23/02/2026,14/03/2026,7-15-AM to 1-15-PM,JODHPUR,AICITSS - Advanced Information Technology,General,23/12/2025
-Central,BILASPUR,ICITSS - Information Technology,ICITSSITT__BILASPUR_27,0,23/02/2026,14/03/2026,11-0-AM to 5-0-PM,BILASPUR,ICITSS - Information Technology,General,
-Central,ALWAR,ICITSS - Information Technology,ICITSSITT__ALWAR_17,19,04/03/2026,23/03/2026,2-0-PM to 8-0-PM,ALWAR,ICITSS - Information Technology,General,27/01/2026
+Central,ALWAR,ICITSS - Orientation Course,ICITSSOC__ALWAR_7,46,16/03/2026,07/04/2026,10-0-PM to 5-0-PM,ALWAR,ICITSS - Orientation Course,General,
+Central,JABALPUR,ICITSS - Information Technology,ICITSSITT__JABALPUR_18,0,23/02/2026,14/03/2026,2-0-PM to 8-0-PM,JABALPUR,ICITSS - Information Technology,General,
 Central,BIKANER,ICITSS - Information Technology,ICITSSITT__BIKANER_20,6,13/03/2026,02/04/2026,10-30-AM to 4-30-PM,BIKANER,ICITSS - Information Technology,General,01/01/2026
-Central,INDORE,ICITSS - Information Technology,ICITSSITT__INDORE_99,0,20/02/2026,10/03/2026,7-0-AM to 1-0-PM,INDORE,ICITSS - Information Technology,General,
-Eastern,ASANSOL,Advanced (ICITSS) MCS Course,AdvICITSSMCS__ASANSOL_4,50,10/03/2026,28/03/2026,10-30-AM to 5-0-PM,ASANSOL,Advanced (ICITSS) MCS Course,General,
-Northern,HISAR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__HISAR_13,22,23/02/2026,13/03/2026,10-0-AM to 5-0-PM,HISAR,Advanced (ICITSS) MCS Course,General,
-Northern,Gurugram,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Gurugram_69,40,19/03/2026,05/04/2026,9-0-AM to 3-30-PM,Gurugram,Advanced (ICITSS) MCS Course,General,
-Central,AGRA,ICITSS - Information Technology,ICITSSITT__AGRA_29,0,02/03/2026,19/03/2026,11-0-AM to 5-0-PM,AGRA,ICITSS - Information Technology,General,
-Northern,DELHI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__DELHI_174_at Laxmi Nagar,26,23/02/2026,12/03/2026,10-0-AM to 5-0-PM,DELHI,Advanced (ICITSS) MCS Course,General,
-Northern,DELHI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__DELHI_173_at Vishwas Nagar,0,09/03/2026,27/03/2026,10-0-AM to 5-0-PM,DELHI,Advanced (ICITSS) MCS Course,General,
-Central,VARANASI,AICITSS - Advanced Information Technology,AICITSSAdvITT__VARANASI_16,23,25/02/2026,14/03/2026,11-0-AM to 5-0-PM,VARANASI,AICITSS - Advanced Information Technology,General,08/01/2026
-Central,SAHARANPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__SAHARANPUR_6,14,09/03/2026,27/03/2026,10-0-AM to 4-0-PM,SAHARANPUR,AICITSS - Advanced Information Technology,General,05/11/2024
-Central,PALI,AICITSS - Advanced Information Technology,AICITSSAdvITT__PALI_3,20,10/03/2026,27/03/2026,10-30-AM to 4-30-PM,PALI,AICITSS - Advanced Information Technology,General,12/08/2025
-Central,BEAWAR,ICITSS - Information Technology,ICITSSITT__BEAWAR_18,8,12/03/2026,26/03/2026,2-0-PM to 8-0-PM,BEAWAR,ICITSS - Information Technology,General,31/12/2025
-Central,BHILWARA,ICITSS - Information Technology,ICITSSITT__BHILWARA_27,2,23/02/2026,14/03/2026,11-0-AM to 5-0-PM,BHILWARA,ICITSS - Information Technology,General,23/12/2025
-Northern,CHANDIGARH,Advanced (ICITSS) MCS Course,AdvICITSSMCS__CHANDIGARH_33,0,09/03/2026,30/03/2026,7-0-AM to 1-0-PM,CHANDIGARH,Advanced (ICITSS) MCS Course,General,
-Central,RAIPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__RAIPUR_43,0,19/02/2026,11/03/2026,10-30-AM to 4-30-PM,RAIPUR,AICITSS - Advanced Information Technology,General,
-Central,GautamBudhaNagar,ICITSS - Information Technology,ICITSSITT__GautamBudhaNagar_42,0,06/03/2026,24/03/2026,10-0-AM to 4-0-PM,GautamBudhaNagar,ICITSS - Information Technology,General,
 Central,DHANBAD,ICITSS - Information Technology,ICITSSITT__DHANBAD_20,0,17/02/2026,03/03/2026,1-0-PM to 7-0-PM,DHANBAD,ICITSS - Information Technology,General,
+Central,KOTA,ICITSS - Information Technology,ICITSSITT__KOTA_25,33,25/02/2026,14/03/2026,11-0-AM to 5-0-PM,KOTA,ICITSS - Information Technology,General,23/01/2026
+Central,BHOPAL,ICITSS - Information Technology,ICITSSITT__BHOPAL_36,0,03/03/2026,20/03/2026,2-0-PM to 8-0-PM,BHOPAL,ICITSS - Information Technology,General,
+Central,KANPUR,ICITSS - Information Technology,ICITSSITT__KANPUR_18,0,09/03/2026,31/03/2026,10-0-AM to 4-0-PM,KANPUR,ICITSS - Information Technology,General,
+Central,GautamBudhaNagar,ICITSS - Information Technology,ICITSSITT__GautamBudhaNagar_42,0,06/03/2026,24/03/2026,10-0-AM to 4-0-PM,GautamBudhaNagar,ICITSS - Information Technology,General,
+Central,GWALIOR,ICITSS - Information Technology,ICITSSITT__GWALIOR_16,0,24/02/2026,20/03/2026,11-0-AM to 5-0-PM,GWALIOR,ICITSS - Information Technology,General,
+Central,BHILWARA,ICITSS - Information Technology,ICITSSITT__BHILWARA_27,2,23/02/2026,14/03/2026,11-0-AM to 5-0-PM,BHILWARA,ICITSS - Information Technology,General,23/12/2025
 Central,JAIPUR,ICITSS - Information Technology,ICITSSITT__JAIPUR_112,0,24/02/2026,16/03/2026,10-30-AM to 4-30-PM,JAIPUR,ICITSS - Information Technology,General,
 Central,JAIPUR,ICITSS - Information Technology,ICITSSITT__JAIPUR_113,0,26/02/2026,18/03/2026,10-30-AM to 4-30-PM,JAIPUR,ICITSS - Information Technology,General,
-Central,MATHURA,ICITSS - Information Technology,ICITSSITT__MATHURA_12,0,09/03/2026,27/03/2026,10-30-AM to 4-30-PM,MATHURA,ICITSS - Information Technology,General,
-Central,GWALIOR,ICITSS - Information Technology,ICITSSITT__GWALIOR_16,0,24/02/2026,20/03/2026,11-0-AM to 5-0-PM,GWALIOR,ICITSS - Information Technology,General,
-Central,BHOPAL,ICITSS - Information Technology,ICITSSITT__BHOPAL_36,0,03/03/2026,20/03/2026,2-0-PM to 8-0-PM,BHOPAL,ICITSS - Information Technology,General,
-Northern,Jammu&Kashmir,Advanced (ICITSS) MCS Course,AdvICITSSMCS__JammuKashmir_5,44,20/02/2026,09/03/2026,10-0-AM to 4-0-PM,Jammu&Kashmir,Advanced (ICITSS) MCS Course,General,
-Central,KOTA,ICITSS - Information Technology,ICITSSITT__KOTA_25,33,25/02/2026,14/03/2026,11-0-AM to 5-0-PM,KOTA,ICITSS - Information Technology,General,23/01/2026
-Central,JABALPUR,ICITSS - Information Technology,ICITSSITT__JABALPUR_18,0,23/02/2026,14/03/2026,2-0-PM to 8-0-PM,JABALPUR,ICITSS - Information Technology,General,
-Central,KANPUR,ICITSS - Information Technology,ICITSSITT__KANPUR_18,0,09/03/2026,31/03/2026,10-0-AM to 4-0-PM,KANPUR,ICITSS - Information Technology,General,
-Central,BILASPUR,ICITSS - Orientation Course,ICITSSOC__BILASPUR_24,4,23/02/2026,14/03/2026,11-0-AM to 5-0-PM,BILASPUR,ICITSS - Orientation Course,General,
-Central,PATNA,ICITSS - Information Technology,ICITSSITT__PATNA_39,0,24/02/2026,14/03/2026,9-30-AM to 3-30-PM,PATNA,ICITSS - Information Technology,General,
-Central,GHAZIABAD,ICITSS - Information Technology,ICITSSITT__GHAZIABAD_70,0,02/03/2026,20/03/2026,8-0-AM to 2-0-PM,GHAZIABAD,ICITSS - Information Technology,General,
-Central,GHAZIABAD,ICITSS - Information Technology,ICITSSITT__GHAZIABAD_71,29,02/03/2026,20/03/2026,2-0-PM to 8-0-PM,GHAZIABAD,ICITSS - Information Technology,General,14/02/2026
-Northern,Kurukshetra,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Kurukshetra_2,30,05/05/2026,21/05/2026,9-30-AM to 4-0-PM,Kurukshetra,Advanced (ICITSS) MCS Course,General,
-Central,INDORE,ICITSS - Orientation Course,ICITSSOC__INDORE_92,0,19/02/2026,09/03/2026,10-0-AM to 5-0-PM,INDORE,ICITSS - Orientation Course,General,
-Central,INDORE,ICITSS - Orientation Course,ICITSSOC__INDORE_93,0,23/02/2026,12/03/2026,10-0-AM to 5-0-PM,INDORE,ICITSS - Orientation Course,General,
-Northern,PATIALA,Advanced (ICITSS) MCS Course,AdvICITSSMCS__PATIALA_7,31,02/03/2026,19/03/2026,10-0-AM to 4-0-PM,PATIALA,Advanced (ICITSS) MCS Course,General,
-Central,GautamBudhaNagar,ICITSS - Orientation Course,ICITSSOC__GautamBudhaNagar_41,31,06/03/2026,23/03/2026,10-0-AM to 5-0-PM,GautamBudhaNagar,ICITSS - Orientation Course,General,
-Central,RANCHI,ICITSS - Information Technology,ICITSSITT__RANCHI_46,0,20/02/2026,16/03/2026,7-30-AM to 1-30-PM,RANCHI,ICITSS - Information Technology,General,
-Central,RANCHI,ICITSS - Information Technology,ICITSSITT__RANCHI_47,15,13/03/2026,04/04/2026,7-30-AM to 1-30-PM,RANCHI,ICITSS - Information Technology,General,08/02/2026
-Central,SRIGANGANAGAR,ICITSS - Information Technology,ICITSSITT__SRIGANGANAGAR_12,0,02/03/2026,19/03/2026,12-0-PM to 6-0-PM,SRIGANGANAGAR,ICITSS - Information Technology,General,
-Central,DHANBAD,ICITSS - Orientation Course,ICITSSOC__DHANBAD_14,50,10/03/2026,28/03/2026,10-0-AM to 4-0-PM,DHANBAD,ICITSS - Orientation Course,General,
-Central,BHILWARA,ICITSS - Orientation Course,ICITSSOC__BHILWARA_19,30,23/02/2026,14/03/2026,10-0-AM to 4-30-PM,BHILWARA,ICITSS - Orientation Course,General,
-Central,UDAIPUR,ICITSS - Information Technology,ICITSSITT__UDAIPUR_27,0,23/02/2026,14/03/2026,8-0-AM to 2-0-PM,UDAIPUR,ICITSS - Information Technology,General,
-Central,GORAKHPUR,ICITSS - Orientation Course,ICITSSOC__GORAKHPUR_7,40,23/02/2026,12/03/2026,11-0-AM to 5-0-PM,GORAKHPUR,ICITSS - Orientation Course,General,
-Northern,DELHI,Advanced (ICITSS) MCS Course - Weekend,Adv.ICITSSMCSWkd_DELHI_35 at Vishwas Nagar,32,22/02/2026,10/04/2026,10-0-AM to 5-0-PM,DELHI,Advanced (ICITSS) MCS Course - Weekend,General,
-Central,RAIPUR,ICITSS - Information Technology,ICITSSITT__RAIPUR_49,0,19/02/2026,11/03/2026,10-30-AM to 4-30-PM,RAIPUR,ICITSS - Information Technology,General,
-Central,ALWAR,ICITSS - Orientation Course,ICITSSOC__ALWAR_7,46,16/03/2026,07/04/2026,10-0-PM to 5-0-PM,ALWAR,ICITSS - Orientation Course,General,
+Central,BILASPUR,ICITSS - Information Technology,ICITSSITT__BILASPUR_27,0,23/02/2026,14/03/2026,11-0-AM to 5-0-PM,BILASPUR,ICITSS - Information Technology,General,
 Central,MEERUT,ICITSS - Information Technology,ICITSSITT__MEERUT_22,4,21/02/2026,11/03/2026,10-0-AM to 4-0-PM,MEERUT,ICITSS - Information Technology,General,21/11/2025
 Central,MEERUT,ICITSS - Information Technology,ICITSSITT__MEERUT_23,30,01/04/2026,18/04/2026,10-0-AM to 4-0-PM,MEERUT,ICITSS - Information Technology,General,23/12/2025
-Central,BIKANER,ICITSS - Orientation Course,ICITSSOC__BIKANER_15,1,20/02/2026,12/03/2026,10-30-AM to 4-30-PM,BIKANER,ICITSS - Orientation Course,General,
-Central,CHITTORGARH,ICITSS - Orientation Course,ICITSSOC__CHITTORGARH_11,29,25/02/2026,16/03/2026,10-30-AM to 5-30-PM,CHITTORGARH,ICITSS - Orientation Course,General,
-Eastern,BHUBANESWAR,AICITSS - Advanced Information Technology,AICITSSAdvITT__BHUBANESWAR_20,21,02/03/2026,19/03/2026,2-0-PM to 8-0-PM,BHUBANESWAR,AICITSS - Advanced Information Technology,General,10/02/2026
-Eastern,KOLKATA,AICITSS - Advanced Information Technology,AICITSSAdvITT__KOLKATA_133,17,06/03/2026,24/03/2026,8-0-AM to 2-0-PM,KOLKATA,AICITSS - Advanced Information Technology,General,07/02/2026
-Eastern,DURGAPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__DURGAPUR_3,25,23/02/2026,12/03/2026,10-0-AM to 4-0-PM,DURGAPUR,AICITSS - Advanced Information Technology,General,14/10/2025
+Central,PATNA,ICITSS - Information Technology,ICITSSITT__PATNA_39,0,24/02/2026,14/03/2026,9-30-AM to 3-30-PM,PATNA,ICITSS - Information Technology,General,
+Central,RAIPUR,ICITSS - Information Technology,ICITSSITT__RAIPUR_49,0,19/02/2026,11/03/2026,10-30-AM to 4-30-PM,RAIPUR,ICITSS - Information Technology,General,
+Central,INDORE,ICITSS - Information Technology,ICITSSITT__INDORE_99,0,20/02/2026,10/03/2026,7-0-AM to 1-0-PM,INDORE,ICITSS - Information Technology,General,
+Central,GHAZIABAD,ICITSS - Information Technology,ICITSSITT__GHAZIABAD_70,0,02/03/2026,20/03/2026,8-0-AM to 2-0-PM,GHAZIABAD,ICITSS - Information Technology,General,
+Central,GHAZIABAD,ICITSS - Information Technology,ICITSSITT__GHAZIABAD_71,29,02/03/2026,20/03/2026,2-0-PM to 8-0-PM,GHAZIABAD,ICITSS - Information Technology,General,14/02/2026
+Central,SAHARANPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__SAHARANPUR_6,14,09/03/2026,27/03/2026,10-0-AM to 4-0-PM,SAHARANPUR,AICITSS - Advanced Information Technology,General,05/11/2024
+Northern,AMBALA,Advanced (ICITSS) MCS Course,AdvICITSSMCS__AMBALA_7,20,09/03/2026,27/03/2026,10-0-AM to 4-0-PM,AMBALA,Advanced (ICITSS) MCS Course,General,
+Central,MATHURA,ICITSS - Information Technology,ICITSSITT__MATHURA_12,0,09/03/2026,27/03/2026,10-30-AM to 4-30-PM,MATHURA,ICITSS - Information Technology,General,
+Central,JODHPUR,ICITSS - Orientation Course,ICITSSOC__JODHPUR_30,30,06/03/2026,22/03/2026,10-0-AM to 4-30-PM,JODHPUR,ICITSS - Orientation Course,General,
+Central,DHANBAD,ICITSS - Orientation Course,ICITSSOC__DHANBAD_14,50,10/03/2026,28/03/2026,10-0-AM to 4-0-PM,DHANBAD,ICITSS - Orientation Course,General,
+Central,GautamBudhaNagar,ICITSS - Orientation Course,ICITSSOC__GautamBudhaNagar_41,31,06/03/2026,23/03/2026,10-0-AM to 5-0-PM,GautamBudhaNagar,ICITSS - Orientation Course,General,
 Central,BHOPAL,ICITSS - Orientation Course,ICITSSOC__BHOPAL_27,46,05/03/2026,21/03/2026,10-0-AM to 5-0-PM,BHOPAL,ICITSS - Orientation Course,General,
 Central,GWALIOR,ICITSS - Orientation Course,ICITSSOC__GWALIOR_6,43,24/03/2026,14/04/2026,11-0-AM to 5-0-PM,GWALIOR,ICITSS - Orientation Course,General,
+Central,BIKANER,ICITSS - Orientation Course,ICITSSOC__BIKANER_15,1,20/02/2026,12/03/2026,10-30-AM to 4-30-PM,BIKANER,ICITSS - Orientation Course,General,
+Central,BHILWARA,ICITSS - Orientation Course,ICITSSOC__BHILWARA_19,30,23/02/2026,14/03/2026,10-0-AM to 4-30-PM,BHILWARA,ICITSS - Orientation Course,General,
+Central,KANPUR,ICITSS - Orientation Course,ICITSSOC__KANPUR_15,0,17/02/2026,07/03/2026,10-0-AM to 5-0-PM,KANPUR,ICITSS - Orientation Course,General,
 Central,JAIPUR,ICITSS - Orientation Course,ICITSSOC__JAIPUR_101,0,20/02/2026,12/03/2026,10-30-AM to 5-0-PM,JAIPUR,ICITSS - Orientation Course,General,
+Central,BILASPUR,ICITSS - Orientation Course,ICITSSOC__BILASPUR_24,4,23/02/2026,14/03/2026,11-0-AM to 5-0-PM,BILASPUR,ICITSS - Orientation Course,General,
+Central,KISHANGARH,ICITSS - Orientation Course,ICITSSOC__KISHANGARH_8,35,20/02/2026,11/03/2026,10-0-AM to 4-0-PM,KISHANGARH,ICITSS - Orientation Course,General,
+Central,SRIGANGANAGAR,ICITSS - Information Technology,ICITSSITT__SRIGANGANAGAR_12,0,02/03/2026,19/03/2026,12-0-PM to 6-0-PM,SRIGANGANAGAR,ICITSS - Information Technology,General,
+Central,RANCHI,ICITSS - Information Technology,ICITSSITT__RANCHI_46,0,20/02/2026,16/03/2026,7-30-AM to 1-30-PM,RANCHI,ICITSS - Information Technology,General,
+Central,RANCHI,ICITSS - Information Technology,ICITSSITT__RANCHI_47,15,13/03/2026,04/04/2026,7-30-AM to 1-30-PM,RANCHI,ICITSS - Information Technology,General,08/02/2026
+Central,UDAIPUR,ICITSS - Information Technology,ICITSSITT__UDAIPUR_27,0,23/02/2026,14/03/2026,8-0-AM to 2-0-PM,UDAIPUR,ICITSS - Information Technology,General,
 Central,SIKAR,ICITSS - Information Technology,ICITSSITT__SIKAR_25,0,23/02/2026,14/03/2026,10-0-AM to 4-0-PM,SIKAR,ICITSS - Information Technology,General,
 Central,SIKAR,ICITSS - Information Technology,ICITSSITT__SIKAR_26,2,16/03/2026,06/04/2026,10-0-AM to 4-0-PM,SIKAR,ICITSS - Information Technology,General,12/02/2026
-Northern,Gurugram,AICITSS - Advanced Information Technology,AICITSSAdvITT__Gurugram_57,6,02/03/2026,18/03/2026,9-0-AM to 3-0-PM,Gurugram,AICITSS - Advanced Information Technology,General,09/01/2026
-Northern,ROHTAK,Advanced (ICITSS) MCS Course,AdvICITSSMCS__ROHTAK_6,49,05/03/2026,24/03/2026,10-0-AM to 5-0-PM,ROHTAK,Advanced (ICITSS) MCS Course,General,
-Northern,BHIWANI,AICITSS - Advanced Information Technology,AICITSSAdvITT__BHIWANI_10,10,06/04/2026,25/04/2026,10-0-AM to 4-0-PM,BHIWANI,AICITSS - Advanced Information Technology,General,12/01/2026
-Central,JODHPUR,ICITSS - Orientation Course,ICITSSOC__JODHPUR_30,30,06/03/2026,22/03/2026,10-0-AM to 4-30-PM,JODHPUR,ICITSS - Orientation Course,General,
-Central,KANPUR,ICITSS - Orientation Course,ICITSSOC__KANPUR_15,0,17/02/2026,07/03/2026,10-0-AM to 5-0-PM,KANPUR,ICITSS - Orientation Course,General,
-Central,Haldwani,ICITSS - Orientation Course,ICITSSOC__Haldwani_6,26,09/03/2026,25/03/2026,11-0-AM to 5-0-PM,Haldwani,ICITSS - Orientation Course,General,
+Northern,Gurugram,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Gurugram_69,40,19/03/2026,05/04/2026,9-0-AM to 3-30-PM,Gurugram,Advanced (ICITSS) MCS Course,General,
+Central,RAIPUR,ICITSS - Orientation Course,ICITSSOC__RAIPUR_24,0,19/02/2026,11/03/2026,10-30-AM to 5-30-PM,RAIPUR,ICITSS - Orientation Course,General,
+Northern,CHANDIGARH,Advanced (ICITSS) MCS Course,AdvICITSSMCS__CHANDIGARH_33,0,09/03/2026,30/03/2026,7-0-AM to 1-0-PM,CHANDIGARH,Advanced (ICITSS) MCS Course,General,
 Central,GHAZIABAD,ICITSS - Orientation Course,ICITSSOC__GHAZIABAD_35,47,02/03/2026,20/03/2026,10-0-AM to 5-0-PM,GHAZIABAD,ICITSS - Orientation Course,General,
-Southern,Chengalpattu,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Chengalpattu_28,24,02/03/2026,18/03/2026,7-0-AM to 1-0-PM,Chengalpattu,Advanced (ICITSS) MCS Course,General,
-Central,KISHANGARH,ICITSS - Orientation Course,ICITSSOC__KISHANGARH_8,35,20/02/2026,11/03/2026,10-0-AM to 4-0-PM,KISHANGARH,ICITSS - Orientation Course,General,
-Central,PATNA,ICITSS - Orientation Course,ICITSSOC__PATNA_35,0,17/02/2026,07/03/2026,10-0-AM to 4-30-PM,PATNA,ICITSS - Orientation Course,General,
+Central,MEERUT,ICITSS - Orientation Course,ICITSSOC__MEERUT_17,18,12/03/2026,30/03/2026,10-0-AM to 4-30-PM,MEERUT,ICITSS - Orientation Course,General,
+Northern,DELHI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__DELHI_174_at Laxmi Nagar,26,23/02/2026,12/03/2026,10-0-AM to 5-0-PM,DELHI,Advanced (ICITSS) MCS Course,General,
+Northern,DELHI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__DELHI_173_at Vishwas Nagar,0,09/03/2026,27/03/2026,10-0-AM to 5-0-PM,DELHI,Advanced (ICITSS) MCS Course,General,
+Northern,HISAR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__HISAR_13,22,23/02/2026,13/03/2026,10-0-AM to 5-0-PM,HISAR,Advanced (ICITSS) MCS Course,General,
+Northern,Jammu&Kashmir,Advanced (ICITSS) MCS Course,AdvICITSSMCS__JammuKashmir_5,44,20/02/2026,09/03/2026,10-0-AM to 4-0-PM,Jammu&Kashmir,Advanced (ICITSS) MCS Course,General,
+Northern,PATIALA,Advanced (ICITSS) MCS Course,AdvICITSSMCS__PATIALA_7,31,02/03/2026,19/03/2026,10-0-AM to 4-0-PM,PATIALA,Advanced (ICITSS) MCS Course,General,
+Central,INDORE,ICITSS - Orientation Course,ICITSSOC__INDORE_92,0,19/02/2026,09/03/2026,10-0-AM to 5-0-PM,INDORE,ICITSS - Orientation Course,General,
+Central,INDORE,ICITSS - Orientation Course,ICITSSOC__INDORE_93,0,23/02/2026,12/03/2026,10-0-AM to 5-0-PM,INDORE,ICITSS - Orientation Course,General,
 Southern,Alappuzha,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Alappuzha_38,24,02/03/2026,18/03/2026,9-30-AM to 4-30-PM,Alappuzha,Advanced (ICITSS) MCS Course,General,
 Southern,Alappuzha,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Alappuzha_39,30,23/03/2026,11/04/2026,9-30-AM to 4-30-PM,Alappuzha,Advanced (ICITSS) MCS Course,General,
 Southern,Alappuzha,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Alappuzha_40,40,13/05/2026,30/05/2026,9-30-AM to 4-30-PM,Alappuzha,Advanced (ICITSS) MCS Course,General,
+Central,CHITTORGARH,ICITSS - Orientation Course,ICITSSOC__CHITTORGARH_11,29,25/02/2026,16/03/2026,10-30-AM to 5-30-PM,CHITTORGARH,ICITSS - Orientation Course,General,
+Central,Haldwani,ICITSS - Orientation Course,ICITSSOC__Haldwani_6,26,09/03/2026,25/03/2026,11-0-AM to 5-0-PM,Haldwani,ICITSS - Orientation Course,General,
+Northern,ROHTAK,Advanced (ICITSS) MCS Course,AdvICITSSMCS__ROHTAK_6,49,05/03/2026,24/03/2026,10-0-AM to 5-0-PM,ROHTAK,Advanced (ICITSS) MCS Course,General,
+Central,PATNA,ICITSS - Orientation Course,ICITSSOC__PATNA_35,0,17/02/2026,07/03/2026,10-0-AM to 4-30-PM,PATNA,ICITSS - Orientation Course,General,
+Central,GORAKHPUR,ICITSS - Orientation Course,ICITSSOC__GORAKHPUR_7,40,23/02/2026,12/03/2026,11-0-AM to 5-0-PM,GORAKHPUR,ICITSS - Orientation Course,General,
+Northern,Kurukshetra,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Kurukshetra_2,30,05/05/2026,21/05/2026,9-30-AM to 4-0-PM,Kurukshetra,Advanced (ICITSS) MCS Course,General,
+Southern,Ballari,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Ballari_4,19,10/03/2026,27/03/2026,2-0-PM to 8-0-PM,Ballari,Advanced (ICITSS) MCS Course,General,
+Eastern,DURGAPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__DURGAPUR_3,25,23/02/2026,12/03/2026,10-0-AM to 4-0-PM,DURGAPUR,AICITSS - Advanced Information Technology,General,14/10/2025
+Eastern,BHUBANESWAR,AICITSS - Advanced Information Technology,AICITSSAdvITT__BHUBANESWAR_20,21,02/03/2026,19/03/2026,2-0-PM to 8-0-PM,BHUBANESWAR,AICITSS - Advanced Information Technology,General,10/02/2026
+Central,PALI,ICITSS - Orientation Course,ICITSSOC__PALI_3,30,06/03/2026,24/03/2026,10-30-AM to 5-0-PM,PALI,ICITSS - Orientation Course,General,
+Central,VARANASI,AICITSS - Advanced Information Technology,AICITSSAdvITT__VARANASI_16,23,25/02/2026,14/03/2026,11-0-AM to 5-0-PM,VARANASI,AICITSS - Advanced Information Technology,General,08/01/2026
+Southern,GUNTUR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__GUNTUR_30,7,20/02/2026,09/03/2026,7-0-AM to 1-0-PM,GUNTUR,Advanced (ICITSS) MCS Course,General,
+Central,SIKAR,ICITSS - Orientation Course,ICITSSOC__SIKAR_16,44,23/02/2026,14/03/2026,10-0-AM to 5-0-PM,SIKAR,ICITSS - Orientation Course,General,
 Central,RANCHI,ICITSS - Orientation Course,ICITSSOC__RANCHI_22,33,20/02/2026,12/03/2026,10-30-AM to 5-30-PM,RANCHI,ICITSS - Orientation Course,General,
+Southern,CHENNAI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__CHENNAI_110,0,23/02/2026,10/03/2026,7-0-AM to 1-30-PM,CHENNAI,Advanced (ICITSS) MCS Course,General,
+Southern,CHENNAI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__CHENNAI_111,0,23/02/2026,10/03/2026,1-45-PM to 8-15-PM,CHENNAI,Advanced (ICITSS) MCS Course,General,
+Central,UDAIPUR,ICITSS - Orientation Course,ICITSSOC__UDAIPUR_27,0,23/02/2026,14/03/2026,8-0-AM to 2-0-PM,UDAIPUR,ICITSS - Orientation Course,General,
+Southern,ERODE,Advanced (ICITSS) MCS Course,AdvICITSSMCS__ERODE_9,45,02/03/2026,16/03/2026,10-0-AM to 4-0-PM,ERODE,Advanced (ICITSS) MCS Course,General,
+Southern,Chengalpattu,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Chengalpattu_28,24,02/03/2026,18/03/2026,7-0-AM to 1-0-PM,Chengalpattu,Advanced (ICITSS) MCS Course,General,
+Eastern,KOLKATA,AICITSS - Advanced Information Technology,AICITSSAdvITT__KOLKATA_133,17,06/03/2026,24/03/2026,8-0-AM to 2-0-PM,KOLKATA,AICITSS - Advanced Information Technology,General,07/02/2026
+Northern,DELHI,Advanced (ICITSS) MCS Course - Weekend,Adv.ICITSSMCSWkd_DELHI_35 at Vishwas Nagar,32,22/02/2026,10/04/2026,10-0-AM to 5-0-PM,DELHI,Advanced (ICITSS) MCS Course - Weekend,General,
+Southern,Belagavi,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Belagavi_14,28,27/02/2026,18/03/2026,10-30-AM to 5-30-PM,Belagavi,Advanced (ICITSS) MCS Course,General,
+Central,SAHARANPUR,ICITSS - Orientation Course,ICITSSOC__SAHARANPUR_6,28,20/02/2026,11/03/2026,10-0-AM to 4-0-PM,SAHARANPUR,ICITSS - Orientation Course,General,
+Southern,KANNUR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__KANNUR_18,25,13/03/2026,31/03/2026,10-0-AM to 5-0-PM,KANNUR,Advanced (ICITSS) MCS Course,General,
+Southern,HYDERABAD,Advanced (ICITSS) MCS Course,AdvICITSSMCS__HYDERABAD_109,34,02/03/2026,18/03/2026,7-0-AM to 1-30-PM,HYDERABAD,Advanced (ICITSS) MCS Course,General,
+Southern,HYDERABAD,Advanced (ICITSS) MCS Course,AdvICITSSMCS__HYDERABAD_110,41,02/03/2026,18/03/2026,7-0-AM to 1-30-PM,HYDERABAD,Advanced (ICITSS) MCS Course,General,
 Southern,BENGALURU,Advanced (ICITSS) MCS Course,AdvICITSSMCS__BENGALURU_135,23,26/02/2026,14/03/2026,7-0-AM to 1-30-PM,BENGALURU,Advanced (ICITSS) MCS Course,General,
 Southern,BENGALURU,Advanced (ICITSS) MCS Course,AdvICITSSMCS__BENGALURU_136,8,26/02/2026,14/03/2026,7-0-AM to 1-30-PM,BENGALURU,Advanced (ICITSS) MCS Course,General,
 Southern,BENGALURU,Advanced (ICITSS) MCS Course,AdvICITSSMCS__BENGALURU_137,29,26/02/2026,14/03/2026,2-0-PM to 8-30-PM,BENGALURU,Advanced (ICITSS) MCS Course,General,
-Central,VARANASI,ICITSS - Orientation Course,ICITSSOC__VARANASI_19,38,27/02/2026,17/03/2026,11-0-AM to 5-0-PM,VARANASI,ICITSS - Orientation Course,General,
-Northern,Bhatinda,ICITSS - Information Technology,ICITSSITT__Bhatinda_30,0,19/02/2026,09/03/2026,10-0-AM to 4-0-PM,Bhatinda,ICITSS - Information Technology,General,
+Southern,COIMBATORE,Advanced (ICITSS) MCS Course,AdvICITSSMCS__COIMBATORE_30,0,26/02/2026,16/03/2026,10-0-AM to 5-0-PM,COIMBATORE,Advanced (ICITSS) MCS Course,General,
+Southern,Kollam,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Kollam_11,47,09/03/2026,27/03/2026,9-30-AM to 4-30-PM,Kollam,Advanced (ICITSS) MCS Course,General,
+Southern,ERNAKULAM,Advanced (ICITSS) MCS Course,AdvICITSSMCS__ERNAKULAM_25,2,09/03/2026,27/03/2026,9-30-AM to 4-30-PM,ERNAKULAM,Advanced (ICITSS) MCS Course,General,
 Eastern,BHUBANESWAR,ICITSS - Information Technology,ICITSSITT__BHUBANESWAR_33,0,19/02/2026,07/03/2026,8-0-AM to 2-0-PM,BHUBANESWAR,ICITSS - Information Technology,General,
-Southern,GUNTUR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__GUNTUR_30,7,20/02/2026,09/03/2026,7-0-AM to 1-0-PM,GUNTUR,Advanced (ICITSS) MCS Course,General,
+Eastern,ASANSOL,ICITSS - Orientation Course,ICITSSOC__ASANSOL_4,50,24/02/2026,17/03/2026,10-30-AM to 5-0-PM,ASANSOL,ICITSS - Orientation Course,General,
+Southern,Kozhikode,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Kozhikode_41,0,02/03/2026,18/03/2026,10-0-AM to 5-0-PM,Kozhikode,Advanced (ICITSS) MCS Course,General,
+Southern,Kozhikode,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Kozhikode_42,0,23/03/2026,10/04/2026,10-0-AM to 5-0-PM,Kozhikode,Advanced (ICITSS) MCS Course,General,
+Southern,Mangaluru,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Mangaluru_20,18,23/02/2026,11/03/2026,10-0-AM to 4-30-PM,Mangaluru,Advanced (ICITSS) MCS Course,General,
 Eastern,ROURKELA,ICITSS - Information Technology,ICITSSITT__ROURKELA_10,12,09/03/2026,25/03/2026,10-0-AM to 4-0-PM,ROURKELA,ICITSS - Information Technology,General,05/02/2026
-Central,SAHARANPUR,ICITSS - Orientation Course,ICITSSOC__SAHARANPUR_6,28,20/02/2026,11/03/2026,10-0-AM to 4-0-PM,SAHARANPUR,ICITSS - Orientation Course,General,
+Eastern,BHUBANESWAR,ICITSS - Orientation Course,ICITSSOC__BHUBANESWAR_23,41,23/02/2026,11/03/2026,10-0-AM to 5-0-PM,BHUBANESWAR,ICITSS - Orientation Course,General,
+Northern,BHIWANI,AICITSS - Advanced Information Technology,AICITSSAdvITT__BHIWANI_10,10,06/04/2026,25/04/2026,10-0-AM to 4-0-PM,BHIWANI,AICITSS - Advanced Information Technology,General,12/01/2026
+Eastern,SILIGURI,ICITSS - Information Technology,ICITSSITT__SILIGURI_20,0,23/02/2026,11/03/2026,10-30-AM to 4-30-PM,SILIGURI,ICITSS - Information Technology,General,
+Eastern,SAMBALPUR,ICITSS - Information Technology,ICITSSITT__SAMBALPUR_14,8,16/03/2026,04/04/2026,10-0-AM to 4-0-PM,SAMBALPUR,ICITSS - Information Technology,General,17/01/2026
+Northern,LUDHIANA,AICITSS - Advanced Information Technology,AICITSSAdvITT__LUDHIANA_19,12,23/03/2026,13/04/2026,10-0-AM to 4-0-PM,LUDHIANA,AICITSS - Advanced Information Technology,General,21/11/2025
+Northern,DELHI,AICITSS - Advanced Information Technology,AICITSSAdvITT__DELHI_235_at Vishwas Nagar,0,28/02/2026,20/03/2026,7-30-AM to 1-30-PM,DELHI,AICITSS - Advanced Information Technology,General,
+Northern,DELHI,AICITSS - Advanced Information Technology,AICITSSAdvITT__DELHI_236_at Prashant Vihar,12,09/03/2026,26/03/2026,7-30-AM to 1-30-PM,DELHI,AICITSS - Advanced Information Technology,General,11/02/2026
+Southern,BENGALURU,Advanced (ICITSS) MCS Course - Weekend,AdvICITSSMCSWkd__BENGALURU_20,30,21/02/2026,10/04/2026,7-0-AM to 1-30-PM,BENGALURU,Advanced (ICITSS) MCS Course - Weekend,General,
+Northern,Gurugram,AICITSS - Advanced Information Technology,AICITSSAdvITT__Gurugram_57,6,02/03/2026,18/03/2026,9-0-AM to 3-0-PM,Gurugram,AICITSS - Advanced Information Technology,General,09/01/2026
+Northern,CHANDIGARH,AICITSS - Advanced Information Technology,AICITSSAdvITT__CHANDIGARH_36,18,09/03/2026,30/03/2026,7-0-AM to 1-0-PM,CHANDIGARH,AICITSS - Advanced Information Technology,General,11/02/2026
+Northern,SANGRUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__SANGRUR_10,4,18/02/2026,06/03/2026,9-30-AM to 3-30-PM,SANGRUR,AICITSS - Advanced Information Technology,General,10/11/2025
+Northern,PATIALA,AICITSS - Advanced Information Technology,AICITSSAdvITT__PATIALA_9,21,02/03/2026,19/03/2026,10-0-AM to 4-0-PM,PATIALA,AICITSS - Advanced Information Technology,General,25/11/2025
+Northern,REWARI,AICITSS - Advanced Information Technology,AICITSSAdvITT__REWARI_6,17,09/03/2026,26/03/2026,10-0-AM to 4-0-PM,REWARI,AICITSS - Advanced Information Technology,General,10/02/2026
+Southern,Anantapur,AICITSS - Advanced Information Technology,AICITSSAdvITT__Anantapur_21,7,26/02/2026,14/03/2026,1-15-PM to 7-15-PM,Anantapur,AICITSS - Advanced Information Technology,General,09/12/2025
+Southern,Alappuzha,AICITSS - Advanced Information Technology,AICITSSAdvITT__Alappuzha_21,15,25/03/2026,13/04/2026,10-0-AM to 4-0-PM,Alappuzha,AICITSS - Advanced Information Technology,General,26/12/2025
+Central,VARANASI,ICITSS - Orientation Course,ICITSSOC__VARANASI_19,38,27/02/2026,17/03/2026,11-0-AM to 5-0-PM,VARANASI,ICITSS - Orientation Course,General,
 Eastern,KOLKATA,ICITSS - Information Technology,ICITSSITT__KOLKATA_196,0,06/03/2026,24/03/2026,2-30-PM to 8-30-PM,KOLKATA,ICITSS - Information Technology,General,
 Eastern,KOLKATA,ICITSS - Information Technology,ICITSSITT__KOLKATA_197,0,06/03/2026,24/03/2026,8-0-AM to 2-0-PM,KOLKATA,ICITSS - Information Technology,General,
 Eastern,KOLKATA,ICITSS - Information Technology,ICITSSITT__KOLKATA_198,0,06/03/2026,24/03/2026,2-30-PM to 8-30-PM,KOLKATA,ICITSS - Information Technology,General,
 Eastern,KOLKATA,ICITSS - Information Technology,ICITSSITT__KOLKATA_199,22,26/03/2026,13/04/2026,2-30-PM to 8-30-PM,KOLKATA,ICITSS - Information Technology,General,12/02/2026
 Eastern,KOLKATA,ICITSS - Information Technology,ICITSSITT__KOLKATA_200,30,26/03/2026,13/04/2026,8-0-AM to 2-0-PM,KOLKATA,ICITSS - Information Technology,General,12/02/2026
 Eastern,KOLKATA,ICITSS - Information Technology,ICITSSITT__KOLKATA_201,39,26/03/2026,13/04/2026,2-30-PM to 8-30-PM,KOLKATA,ICITSS - Information Technology,General,12/02/2026
-Southern,ERODE,Advanced (ICITSS) MCS Course,AdvICITSSMCS__ERODE_9,45,02/03/2026,16/03/2026,10-0-AM to 4-0-PM,ERODE,Advanced (ICITSS) MCS Course,General,
-Southern,KANNUR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__KANNUR_18,25,13/03/2026,31/03/2026,10-0-AM to 5-0-PM,KANNUR,Advanced (ICITSS) MCS Course,General,
-Southern,COIMBATORE,Advanced (ICITSS) MCS Course,AdvICITSSMCS__COIMBATORE_30,0,26/02/2026,16/03/2026,10-0-AM to 5-0-PM,COIMBATORE,Advanced (ICITSS) MCS Course,General,
-Central,SIKAR,ICITSS - Orientation Course,ICITSSOC__SIKAR_16,44,23/02/2026,14/03/2026,10-0-AM to 5-0-PM,SIKAR,ICITSS - Orientation Course,General,
-Central,RAIPUR,ICITSS - Orientation Course,ICITSSOC__RAIPUR_24,0,19/02/2026,11/03/2026,10-30-AM to 5-30-PM,RAIPUR,ICITSS - Orientation Course,General,
-Central,PALI,ICITSS - Orientation Course,ICITSSOC__PALI_3,30,06/03/2026,24/03/2026,10-30-AM to 5-0-PM,PALI,ICITSS - Orientation Course,General,
-Southern,Ballari,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Ballari_4,19,10/03/2026,27/03/2026,2-0-PM to 8-0-PM,Ballari,Advanced (ICITSS) MCS Course,General,
-Southern,Kozhikode,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Kozhikode_41,0,02/03/2026,18/03/2026,10-0-AM to 5-0-PM,Kozhikode,Advanced (ICITSS) MCS Course,General,
-Southern,Kozhikode,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Kozhikode_42,0,23/03/2026,10/04/2026,10-0-AM to 5-0-PM,Kozhikode,Advanced (ICITSS) MCS Course,General,
-Northern,REWARI,AICITSS - Advanced Information Technology,AICITSSAdvITT__REWARI_6,17,09/03/2026,26/03/2026,10-0-AM to 4-0-PM,REWARI,AICITSS - Advanced Information Technology,General,10/02/2026
-Northern,CHANDIGARH,AICITSS - Advanced Information Technology,AICITSSAdvITT__CHANDIGARH_36,18,09/03/2026,30/03/2026,7-0-AM to 1-0-PM,CHANDIGARH,AICITSS - Advanced Information Technology,General,11/02/2026
-Northern,DELHI,AICITSS - Advanced Information Technology,AICITSSAdvITT__DELHI_235_at Vishwas Nagar,0,28/02/2026,20/03/2026,7-30-AM to 1-30-PM,DELHI,AICITSS - Advanced Information Technology,General,
-Northern,DELHI,AICITSS - Advanced Information Technology,AICITSSAdvITT__DELHI_236_at Prashant Vihar,12,09/03/2026,26/03/2026,7-30-AM to 1-30-PM,DELHI,AICITSS - Advanced Information Technology,General,11/02/2026
-Southern,Mangaluru,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Mangaluru_20,18,23/02/2026,11/03/2026,10-0-AM to 4-30-PM,Mangaluru,Advanced (ICITSS) MCS Course,General,
-Southern,ERNAKULAM,Advanced (ICITSS) MCS Course,AdvICITSSMCS__ERNAKULAM_25,2,09/03/2026,27/03/2026,9-30-AM to 4-30-PM,ERNAKULAM,Advanced (ICITSS) MCS Course,General,
-Southern,CHENNAI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__CHENNAI_110,0,23/02/2026,10/03/2026,7-0-AM to 1-30-PM,CHENNAI,Advanced (ICITSS) MCS Course,General,
-Southern,CHENNAI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__CHENNAI_111,0,23/02/2026,10/03/2026,1-45-PM to 8-15-PM,CHENNAI,Advanced (ICITSS) MCS Course,General,
-Central,UDAIPUR,ICITSS - Orientation Course,ICITSSOC__UDAIPUR_27,0,23/02/2026,14/03/2026,8-0-AM to 2-0-PM,UDAIPUR,ICITSS - Orientation Course,General,
-Central,MEERUT,ICITSS - Orientation Course,ICITSSOC__MEERUT_17,18,12/03/2026,30/03/2026,10-0-AM to 4-30-PM,MEERUT,ICITSS - Orientation Course,General,
-Southern,Kollam,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Kollam_11,47,09/03/2026,27/03/2026,9-30-AM to 4-30-PM,Kollam,Advanced (ICITSS) MCS Course,General,
-Southern,Belagavi,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Belagavi_14,28,27/02/2026,18/03/2026,10-30-AM to 5-30-PM,Belagavi,Advanced (ICITSS) MCS Course,General,
-Northern,HISAR,ICITSS - Information Technology,ICITSSITT__HISAR_51,0,23/02/2026,13/03/2026,7-0-AM to 1-0-PM,HISAR,ICITSS - Information Technology,General,
-Northern,HISAR,ICITSS - Information Technology,ICITSSITT__HISAR_52,0,23/02/2026,13/03/2026,1-30-PM to 7-30-PM,HISAR,ICITSS - Information Technology,General,
+Eastern,DURGAPUR,ICITSS - Orientation Course,ICITSSOC__DURGAPUR_6,38,21/02/2026,11/03/2026,10-0-AM to 5-0-PM,DURGAPUR,ICITSS - Orientation Course,General,
+Southern,Ballari,AICITSS - Advanced Information Technology,AICITSSAdvITT__Ballari_6,20,19/03/2026,04/04/2026,8-0-AM to 2-0-PM,Ballari,AICITSS - Advanced Information Technology,General,18/09/2025
+Southern,PUDUCHERRY,Advanced (ICITSS) MCS Course,AdvICITSSMCS__PUDUCHERRY_1,36,02/03/2026,18/03/2026,10-0-AM to 5-0-PM,PUDUCHERRY,Advanced (ICITSS) MCS Course,General,
+Southern,Thrissur,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Thrissur_16,28,09/03/2026,26/03/2026,10-1-PM to 2-5-PM,Thrissur,Advanced (ICITSS) MCS Course,General,
+Southern,VIJAYAWADA,Advanced (ICITSS) MCS Course,AdvICITSSMCS__VIJAYAWADA_19,49,26/02/2026,12/03/2026,7-0-AM to 1-0-PM,VIJAYAWADA,Advanced (ICITSS) MCS Course,General,
+Southern,TIRUPATI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__TIRUPATI_33,19,05/03/2026,25/03/2026,7-0-AM to 1-0-PM,TIRUPATI,Advanced (ICITSS) MCS Course,General,
+Southern,Chengalpattu,AICITSS - Advanced Information Technology,AICITSSAdvITT__Chengalpattu_45,0,02/03/2026,18/03/2026,7-0-AM to 1-0-PM,Chengalpattu,AICITSS - Advanced Information Technology,General,
+Western,AHMEDABAD,Advanced (ICITSS) MCS Course,AdvICITSSMCS__AHMEDABAD_94,0,18/02/2026,05/03/2026,7-30-AM to 2-15-PM,AHMEDABAD,Advanced (ICITSS) MCS Course,General,
+Western,AHMEDABAD,Advanced (ICITSS) MCS Course,AdvICITSSMCS__AHMEDABAD_95,0,06/03/2026,20/03/2026,7-30-AM to 2-15-PM,AHMEDABAD,Advanced (ICITSS) MCS Course,General,
+Southern,GUNTUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__GUNTUR_49,4,20/02/2026,09/03/2026,1-0-PM to 7-0-PM,GUNTUR,AICITSS - Advanced Information Technology,General,22/01/2026
+Southern,Thiruvananthapuram,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Thiruvananthapuram_15,39,23/02/2026,14/03/2026,10-0-AM to 5-0-PM,Thiruvananthapuram,Advanced (ICITSS) MCS Course,General,
+Southern,VISAKHAPATNAM,Advanced (ICITSS) MCS Course,AdvICITSSMCS__VISAKHAPATNAM_19,48,02/03/2026,18/03/2026,10-0-AM to 5-0-PM,VISAKHAPATNAM,Advanced (ICITSS) MCS Course,General,
 Northern,Gurugram,ICITSS - Information Technology,ICITSSITT__Gurugram_51,0,24/02/2026,13/03/2026,9-0-AM to 3-0-PM,Gurugram,ICITSS - Information Technology,General,
 Northern,Gurugram,ICITSS - Information Technology,ICITSSITT__Gurugram_52,32,14/03/2026,02/04/2026,9-0-AM to 3-0-PM,Gurugram,ICITSS - Information Technology,General,07/02/2026
 Northern,Gurugram,ICITSS - Information Technology,ICITSSITT__Gurugram_53,45,19/03/2026,08/04/2026,9-0-AM to 3-0-PM,Gurugram,ICITSS - Information Technology,General,14/02/2026
-Northern,PATIALA,AICITSS - Advanced Information Technology,AICITSSAdvITT__PATIALA_9,21,02/03/2026,19/03/2026,10-0-AM to 4-0-PM,PATIALA,AICITSS - Advanced Information Technology,General,25/11/2025
-Southern,HYDERABAD,Advanced (ICITSS) MCS Course,AdvICITSSMCS__HYDERABAD_109,34,02/03/2026,18/03/2026,7-0-AM to 1-30-PM,HYDERABAD,Advanced (ICITSS) MCS Course,General,
-Southern,HYDERABAD,Advanced (ICITSS) MCS Course,AdvICITSSMCS__HYDERABAD_110,41,02/03/2026,18/03/2026,7-0-AM to 1-30-PM,HYDERABAD,Advanced (ICITSS) MCS Course,General,
-Northern,BHIWANI,ICITSS - Information Technology,ICITSSITT__BHIWANI_18,0,23/02/2026,14/03/2026,10-0-AM to 4-0-PM,BHIWANI,ICITSS - Information Technology,General,
-Northern,BHIWANI,ICITSS - Information Technology,ICITSSITT__BHIWANI_19,3,16/03/2026,03/04/2026,10-0-AM to 4-0-PM,BHIWANI,ICITSS - Information Technology,General,05/01/2026
-Eastern,SAMBALPUR,ICITSS - Information Technology,ICITSSITT__SAMBALPUR_14,8,16/03/2026,04/04/2026,10-0-AM to 4-0-PM,SAMBALPUR,ICITSS - Information Technology,General,17/01/2026
-Northern,HIMACHAL PRADESH,ICITSS - Information Technology,ICITSSITT__HIMACHAL PRADESH_1,3,05/03/2026,21/03/2026,10-0-AM to 4-0-PM,HIMACHAL PRADESH,ICITSS - Information Technology,General,10/02/2025
-Eastern,SILIGURI,ICITSS - Information Technology,ICITSSITT__SILIGURI_20,0,23/02/2026,11/03/2026,10-30-AM to 4-30-PM,SILIGURI,ICITSS - Information Technology,General,
-Northern,LUDHIANA,AICITSS - Advanced Information Technology,AICITSSAdvITT__LUDHIANA_19,12,23/03/2026,13/04/2026,10-0-AM to 4-0-PM,LUDHIANA,AICITSS - Advanced Information Technology,General,21/11/2025
-Northern,Bhatinda,ICITSS - Orientation Course,ICITSSOC__Bhatinda_20,26,19/02/2026,09/03/2026,10-0-AM to 4-0-PM,Bhatinda,ICITSS - Orientation Course,General,
-Southern,PUDUCHERRY,Advanced (ICITSS) MCS Course,AdvICITSSMCS__PUDUCHERRY_1,36,02/03/2026,18/03/2026,10-0-AM to 5-0-PM,PUDUCHERRY,Advanced (ICITSS) MCS Course,General,
-Southern,Anantapur,AICITSS - Advanced Information Technology,AICITSSAdvITT__Anantapur_21,7,26/02/2026,14/03/2026,1-15-PM to 7-15-PM,Anantapur,AICITSS - Advanced Information Technology,General,09/12/2025
-Southern,BENGALURU,Advanced (ICITSS) MCS Course - Weekend,AdvICITSSMCSWkd__BENGALURU_20,30,21/02/2026,10/04/2026,7-0-AM to 1-30-PM,BENGALURU,Advanced (ICITSS) MCS Course - Weekend,General,
+Northern,Bhatinda,ICITSS - Information Technology,ICITSSITT__Bhatinda_30,0,19/02/2026,09/03/2026,10-0-AM to 4-0-PM,Bhatinda,ICITSS - Information Technology,General,
 Eastern,KOLKATA,ICITSS - Orientation Course,ICITSSOC__KOLKATA_156,0,06/03/2026,24/03/2026,11-0-AM to 5-30-PM,KOLKATA,ICITSS - Orientation Course,General,
 Eastern,KOLKATA,ICITSS - Orientation Course,ICITSSOC__KOLKATA_157,0,06/03/2026,24/03/2026,11-0-AM to 5-30-PM,KOLKATA,ICITSS - Orientation Course,General,
 Eastern,KOLKATA,ICITSS - Orientation Course,ICITSSOC__KOLKATA_158,7,06/03/2026,24/03/2026,11-0-AM to 5-30-PM,KOLKATA,ICITSS - Orientation Course,General,
-Eastern,BHUBANESWAR,ICITSS - Orientation Course,ICITSSOC__BHUBANESWAR_23,41,23/02/2026,11/03/2026,10-0-AM to 5-0-PM,BHUBANESWAR,ICITSS - Orientation Course,General,
-Eastern,DURGAPUR,ICITSS - Orientation Course,ICITSSOC__DURGAPUR_6,38,21/02/2026,11/03/2026,10-0-AM to 5-0-PM,DURGAPUR,ICITSS - Orientation Course,General,
-Northern,CHANDIGARH,ICITSS - Information Technology,ICITSSITT__CHANDIGARH_50,0,09/03/2026,30/03/2026,1-0-PM to 7-0-PM,CHANDIGARH,ICITSS - Information Technology,General,
+Southern,HYDERABAD,AICITSS - Advanced Information Technology,AICITSSAdvITT__HYDERABAD_113,0,28/02/2026,15/03/2026,7-0-AM to 1-0-PM,HYDERABAD,AICITSS - Advanced Information Technology,General,
+Southern,HYDERABAD,AICITSS - Advanced Information Technology,AICITSSAdvITT__HYDERABAD_114,40,28/02/2026,15/03/2026,7-0-AM to 1-0-PM,HYDERABAD,AICITSS - Advanced Information Technology,General,14/02/2026
 Northern,REWARI,ICITSS - Information Technology,ICITSSITT__REWARI_34,10,09/03/2026,26/03/2026,10-0-AM to 4-0-PM,REWARI,ICITSS - Information Technology,General,19/01/2026
-Southern,Thiruvananthapuram,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Thiruvananthapuram_15,39,23/02/2026,14/03/2026,10-0-AM to 5-0-PM,Thiruvananthapuram,Advanced (ICITSS) MCS Course,General,
 Northern,DELHI,ICITSS - Information Technology,ICITSSITT__DELHI_306_at Priyadarshani Vihar,0,23/02/2026,14/03/2026,2-0-PM to 8-0-PM,DELHI,ICITSS - Information Technology,General,
 Northern,DELHI,ICITSS - Information Technology,ICITSSITT__DELHI_307_at Laxmi Nagar,0,24/02/2026,17/03/2026,2-0-PM to 8-0-PM,DELHI,ICITSS - Information Technology,General,
 Northern,DELHI,ICITSS - Information Technology,ICITSSITT__DELHI_302_at Vishwas Nagar,0,27/02/2026,19/03/2026,2-0-PM to 8-0-PM,DELHI,ICITSS - Information Technology,General,
 Northern,DELHI,ICITSS - Information Technology,ICITSSITT__DELHI_308_at Prashant Vihar,0,06/03/2026,24/03/2026,7-45-AM to 1-45-PM,DELHI,ICITSS - Information Technology,General,
 Northern,DELHI,ICITSS - Information Technology,ICITSSITT__DELHI_309_at Prashant Vihar,0,11/03/2026,27/03/2026,2-0-PM to 8-0-PM,DELHI,ICITSS - Information Technology,General,
-Northern,SANGRUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__SANGRUR_10,4,18/02/2026,06/03/2026,9-30-AM to 3-30-PM,SANGRUR,AICITSS - Advanced Information Technology,General,10/11/2025
-Southern,Chengalpattu,AICITSS - Advanced Information Technology,AICITSSAdvITT__Chengalpattu_45,0,02/03/2026,18/03/2026,7-0-AM to 1-0-PM,Chengalpattu,AICITSS - Advanced Information Technology,General,
-Western,AMRAVATI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__AMRAVATI_5,44,21/02/2026,10/03/2026,10-30-AM to 4-30-PM,AMRAVATI,Advanced (ICITSS) MCS Course,General,
-Northern,HISAR,ICITSS - Orientation Course,ICITSSOC__HISAR_33,1,23/02/2026,13/03/2026,10-0-AM to 5-0-PM,HISAR,ICITSS - Orientation Course,General,
-Northern,Gurugram,ICITSS - Orientation Course,ICITSSOC__Gurugram_66,24,24/02/2026,13/03/2026,9-0-AM to 3-0-PM,Gurugram,ICITSS - Orientation Course,General,
-Northern,Gurugram,ICITSS - Orientation Course,ICITSSOC__Gurugram_67,37,02/03/2026,19/03/2026,9-0-AM to 3-0-PM,Gurugram,ICITSS - Orientation Course,General,
-Southern,TIRUPATI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__TIRUPATI_33,19,05/03/2026,25/03/2026,7-0-AM to 1-0-PM,TIRUPATI,Advanced (ICITSS) MCS Course,General,
-Western,GANDHIDHAM,Advanced (ICITSS) MCS Course,AdvICITSSMCS__GANDHIDHAM_8,42,23/02/2026,10/03/2026,10-0-AM to 4-30-PM,GANDHIDHAM,Advanced (ICITSS) MCS Course,General,
-Southern,VISAKHAPATNAM,Advanced (ICITSS) MCS Course,AdvICITSSMCS__VISAKHAPATNAM_19,48,02/03/2026,18/03/2026,10-0-AM to 5-0-PM,VISAKHAPATNAM,Advanced (ICITSS) MCS Course,General,
-Southern,VIJAYAWADA,Advanced (ICITSS) MCS Course,AdvICITSSMCS__VIJAYAWADA_19,49,26/02/2026,12/03/2026,7-0-AM to 1-0-PM,VIJAYAWADA,Advanced (ICITSS) MCS Course,General,
-Western,AHMEDABAD,Advanced (ICITSS) MCS Course,AdvICITSSMCS__AHMEDABAD_94,0,18/02/2026,05/03/2026,7-30-AM to 2-15-PM,AHMEDABAD,Advanced (ICITSS) MCS Course,General,
-Western,AHMEDABAD,Advanced (ICITSS) MCS Course,AdvICITSSMCS__AHMEDABAD_95,0,06/03/2026,20/03/2026,7-30-AM to 2-15-PM,AHMEDABAD,Advanced (ICITSS) MCS Course,General,
-Eastern,ASANSOL,ICITSS - Orientation Course,ICITSSOC__ASANSOL_4,50,24/02/2026,17/03/2026,10-30-AM to 5-0-PM,ASANSOL,ICITSS - Orientation Course,General,
-Eastern,SAMBALPUR,ICITSS - Orientation Course,ICITSSOC__SAMBALPUR_4,22,18/02/2026,10/03/2026,10-0-AM to 5-0-PM,SAMBALPUR,ICITSS - Orientation Course,General,
-Northern,LUDHIANA,ICITSS - Information Technology,ICITSSITT__LUDHIANA_27,0,27/02/2026,17/03/2026,10-0-AM to 4-0-PM,LUDHIANA,ICITSS - Information Technology,General,
-Southern,GUNTUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__GUNTUR_49,4,20/02/2026,09/03/2026,1-0-PM to 7-0-PM,GUNTUR,AICITSS - Advanced Information Technology,General,22/01/2026
-Southern,Alappuzha,AICITSS - Advanced Information Technology,AICITSSAdvITT__Alappuzha_21,15,25/03/2026,13/04/2026,10-0-AM to 4-0-PM,Alappuzha,AICITSS - Advanced Information Technology,General,26/12/2025
-Southern,Thrissur,Advanced (ICITSS) MCS Course,AdvICITSSMCS__Thrissur_16,28,09/03/2026,26/03/2026,10-1-PM to 2-5-PM,Thrissur,Advanced (ICITSS) MCS Course,General,
-Southern,Palakkad,AICITSS - Advanced Information Technology,AICITSSAdvITT__Palakkad_9,10,11/03/2026,28/03/2026,10-0-AM to 4-0-PM,Palakkad,AICITSS - Advanced Information Technology,General,14/07/2025
-Northern,CHANDIGARH,ICITSS - Orientation Course,ICITSSOC__CHANDIGARH_50,0,09/03/2026,30/03/2026,1-0-PM to 7-0-PM,CHANDIGARH,ICITSS - Orientation Course,General,
-Northern,REWARI,ICITSS - Orientation Course,ICITSSOC__REWARI_22,24,09/03/2026,26/03/2026,10-0-AM to 4-0-PM,REWARI,ICITSS - Orientation Course,General,
-Southern,Kozhikode,AICITSS - Advanced Information Technology,AICITSSAdvITT__Kozhikode_48,0,02/03/2026,18/03/2026,10-0-AM to 4-0-PM,Kozhikode,AICITSS - Advanced Information Technology,General,
-Southern,Kozhikode,AICITSS - Advanced Information Technology,AICITSSAdvITT__Kozhikode_49,15,23/03/2026,10/04/2026,10-0-AM to 4-0-PM,Kozhikode,AICITSS - Advanced Information Technology,General,27/01/2026
-Southern,KANNUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__KANNUR_24,24,06/04/2026,24/04/2026,10-30-AM to 4-30-PM,KANNUR,AICITSS - Advanced Information Technology,General,29/12/2025
-Southern,KOTTAYAM,AICITSS - Advanced Information Technology,AICITSSAdvITT__KOTTAYAM_12,31,09/03/2026,28/03/2026,10-0-AM to 4-0-PM,KOTTAYAM,AICITSS - Advanced Information Technology,General,10/11/2025
+Northern,HISAR,ICITSS - Information Technology,ICITSSITT__HISAR_51,0,23/02/2026,13/03/2026,7-0-AM to 1-0-PM,HISAR,ICITSS - Information Technology,General,
+Northern,HISAR,ICITSS - Information Technology,ICITSSITT__HISAR_52,0,23/02/2026,13/03/2026,1-30-PM to 7-30-PM,HISAR,ICITSS - Information Technology,General,
+Northern,CHANDIGARH,ICITSS - Information Technology,ICITSSITT__CHANDIGARH_50,0,09/03/2026,30/03/2026,1-0-PM to 7-0-PM,CHANDIGARH,ICITSS - Information Technology,General,
 Southern,COIMBATORE,AICITSS - Advanced Information Technology,AICITSSAdvITT__COIMBATORE_27,0,17/03/2026,31/03/2026,10-0-AM to 4-0-PM,COIMBATORE,AICITSS - Advanced Information Technology,General,
 Southern,COIMBATORE,AICITSS - Advanced Information Technology,AICITSSAdvITT__COIMBATORE_28,45,01/04/2026,18/04/2026,10-0-AM to 4-0-PM,COIMBATORE,AICITSS - Advanced Information Technology,General,05/02/2026
-Southern,Ballari,AICITSS - Advanced Information Technology,AICITSSAdvITT__Ballari_6,20,19/03/2026,04/04/2026,8-0-AM to 2-0-PM,Ballari,AICITSS - Advanced Information Technology,General,18/09/2025
-Southern,HYDERABAD,AICITSS - Advanced Information Technology,AICITSSAdvITT__HYDERABAD_113,0,28/02/2026,15/03/2026,7-0-AM to 1-0-PM,HYDERABAD,AICITSS - Advanced Information Technology,General,
-Southern,HYDERABAD,AICITSS - Advanced Information Technology,AICITSSAdvITT__HYDERABAD_114,40,28/02/2026,15/03/2026,7-0-AM to 1-0-PM,HYDERABAD,AICITSS - Advanced Information Technology,General,14/02/2026
+Northern,LUDHIANA,ICITSS - Information Technology,ICITSSITT__LUDHIANA_27,0,27/02/2026,17/03/2026,10-0-AM to 4-0-PM,LUDHIANA,ICITSS - Information Technology,General,
+Southern,KANNUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__KANNUR_24,24,06/04/2026,24/04/2026,10-30-AM to 4-30-PM,KANNUR,AICITSS - Advanced Information Technology,General,29/12/2025
+Eastern,SAMBALPUR,ICITSS - Orientation Course,ICITSSOC__SAMBALPUR_4,22,18/02/2026,10/03/2026,10-0-AM to 5-0-PM,SAMBALPUR,ICITSS - Orientation Course,General,
+Southern,Kollam,AICITSS - Advanced Information Technology,AICITSSAdvITT__Kollam_24,9,28/02/2026,18/03/2026,12-30-PM to 6-30-PM,Kollam,AICITSS - Advanced Information Technology,General,18/11/2025
+Southern,KOTTAYAM,AICITSS - Advanced Information Technology,AICITSSAdvITT__KOTTAYAM_12,31,09/03/2026,28/03/2026,10-0-AM to 4-0-PM,KOTTAYAM,AICITSS - Advanced Information Technology,General,10/11/2025
+Northern,BHIWANI,ICITSS - Information Technology,ICITSSITT__BHIWANI_18,0,23/02/2026,14/03/2026,10-0-AM to 4-0-PM,BHIWANI,ICITSS - Information Technology,General,
+Northern,BHIWANI,ICITSS - Information Technology,ICITSSITT__BHIWANI_19,3,16/03/2026,03/04/2026,10-0-AM to 4-0-PM,BHIWANI,ICITSS - Information Technology,General,05/01/2026
+Western,GANDHIDHAM,Advanced (ICITSS) MCS Course,AdvICITSSMCS__GANDHIDHAM_8,42,23/02/2026,10/03/2026,10-0-AM to 4-30-PM,GANDHIDHAM,Advanced (ICITSS) MCS Course,General,
+Southern,ERNAKULAM,AICITSS - Advanced Information Technology,AICITSSAdvITT__ERNAKULAM_36,37,09/03/2026,30/03/2026,7-30-AM to 1-30-PM,ERNAKULAM,AICITSS - Advanced Information Technology,General,16/01/2026
+Western,AMRAVATI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__AMRAVATI_5,44,21/02/2026,10/03/2026,10-30-AM to 4-30-PM,AMRAVATI,Advanced (ICITSS) MCS Course,General,
+Southern,Alappuzha,ICITSS - Information Technology,ICITSSITT__Alappuzha_31,4,18/02/2026,05/03/2026,10-0-AM to 4-0-PM,Alappuzha,ICITSS - Information Technology,General,10/11/2025
+Southern,Alappuzha,ICITSS - Information Technology,ICITSSITT__Alappuzha_32,1,06/03/2026,24/03/2026,10-0-AM to 4-0-PM,Alappuzha,ICITSS - Information Technology,General,27/11/2025
+Southern,Alappuzha,ICITSS - Information Technology,ICITSSITT__Alappuzha_33,25,16/04/2026,04/05/2026,10-0-AM to 4-0-PM,Alappuzha,ICITSS - Information Technology,General,15/01/2026
+Northern,HIMACHAL PRADESH,ICITSS - Information Technology,ICITSSITT__HIMACHAL PRADESH_1,3,05/03/2026,21/03/2026,10-0-AM to 4-0-PM,HIMACHAL PRADESH,ICITSS - Information Technology,General,10/02/2025
+Southern,Kozhikode,AICITSS - Advanced Information Technology,AICITSSAdvITT__Kozhikode_48,0,02/03/2026,18/03/2026,10-0-AM to 4-0-PM,Kozhikode,AICITSS - Advanced Information Technology,General,
+Southern,Kozhikode,AICITSS - Advanced Information Technology,AICITSSAdvITT__Kozhikode_49,15,23/03/2026,10/04/2026,10-0-AM to 4-0-PM,Kozhikode,AICITSS - Advanced Information Technology,General,27/01/2026
+Southern,Chengalpattu,ICITSS - Information Technology,ICITSSITT__Chengalpattu_43,0,02/03/2026,18/03/2026,1-30-PM to 7-30-PM,Chengalpattu,ICITSS - Information Technology,General,
+Southern,GUNTUR,ICITSS - Information Technology,ICITSSITT__GUNTUR_48,17,09/03/2026,25/03/2026,1-0-PM to 7-0-PM,GUNTUR,ICITSS - Information Technology,General,03/01/2026
+Southern,ERODE,ICITSS - Information Technology,ICITSSITT__ERODE_38,1,11/03/2026,25/03/2026,10-0-AM to 4-0-PM,ERODE,ICITSS - Information Technology,General,20/12/2025
+Southern,ERODE,ICITSS - Information Technology,ICITSSITT__ERODE_39,19,11/03/2026,25/03/2026,10-0-AM to 4-0-PM,ERODE,ICITSS - Information Technology,General,09/02/2026
+Northern,Bhatinda,ICITSS - Orientation Course,ICITSSOC__Bhatinda_20,26,19/02/2026,09/03/2026,10-0-AM to 4-0-PM,Bhatinda,ICITSS - Orientation Course,General,
+Northern,Gurugram,ICITSS - Orientation Course,ICITSSOC__Gurugram_66,24,24/02/2026,13/03/2026,9-0-AM to 3-0-PM,Gurugram,ICITSS - Orientation Course,General,
+Northern,Gurugram,ICITSS - Orientation Course,ICITSSOC__Gurugram_67,37,02/03/2026,19/03/2026,9-0-AM to 3-0-PM,Gurugram,ICITSS - Orientation Course,General,
+Northern,CHANDIGARH,ICITSS - Orientation Course,ICITSSOC__CHANDIGARH_50,0,09/03/2026,30/03/2026,1-0-PM to 7-0-PM,CHANDIGARH,ICITSS - Orientation Course,General,
+Northern,HISAR,ICITSS - Orientation Course,ICITSSOC__HISAR_33,1,23/02/2026,13/03/2026,10-0-AM to 5-0-PM,HISAR,ICITSS - Orientation Course,General,
+Northern,REWARI,ICITSS - Orientation Course,ICITSSOC__REWARI_22,24,09/03/2026,26/03/2026,10-0-AM to 4-0-PM,REWARI,ICITSS - Orientation Course,General,
+Southern,Thrissur,AICITSS - Advanced Information Technology,AICITSSAdvITT__Thrissur_27,0,19/02/2026,07/03/2026,10-0-AM to 4-0-PM,Thrissur,AICITSS - Advanced Information Technology,General,
 Northern,DELHI,ICITSS - Orientation Course,ICITSSOC__DELHI_283_at Pitampura,0,19/02/2026,10/03/2026,7-45-AM to 1-45-PM,DELHI,ICITSS - Orientation Course,General,
 Northern,DELHI,ICITSS - Orientation Course,ICITSSOC__DELHI_284_at Pitampura,0,19/02/2026,10/03/2026,2-0-PM to 8-0-PM,DELHI,ICITSS - Orientation Course,General,
 Northern,DELHI,ICITSS - Orientation Course,ICITSSOC__DELHI_285_at P.D. Vihar,0,26/02/2026,17/03/2026,7-45-AM to 1-45-PM,DELHI,ICITSS - Orientation Course,General,
 Northern,DELHI,ICITSS - Orientation Course,ICITSSOC__DELHI_286_at P.D. Vihar,21,26/02/2026,17/03/2026,2-0-PM to 8-0-PM,DELHI,ICITSS - Orientation Course,General,
-Southern,Chengalpattu,ICITSS - Information Technology,ICITSSITT__Chengalpattu_43,0,02/03/2026,18/03/2026,1-30-PM to 7-30-PM,Chengalpattu,ICITSS - Information Technology,General,
-Southern,ERNAKULAM,AICITSS - Advanced Information Technology,AICITSSAdvITT__ERNAKULAM_36,37,09/03/2026,30/03/2026,7-30-AM to 1-30-PM,ERNAKULAM,AICITSS - Advanced Information Technology,General,16/01/2026
-Southern,Kollam,AICITSS - Advanced Information Technology,AICITSSAdvITT__Kollam_24,9,28/02/2026,18/03/2026,12-30-PM to 6-30-PM,Kollam,AICITSS - Advanced Information Technology,General,18/11/2025
-Southern,GUNTUR,ICITSS - Information Technology,ICITSSITT__GUNTUR_48,17,09/03/2026,25/03/2026,1-0-PM to 7-0-PM,GUNTUR,ICITSS - Information Technology,General,03/01/2026
-Southern,Palakkad,ICITSS - Information Technology,ICITSSITT__Palakkad_33,0,20/02/2026,09/03/2026,10-0-AM to 4-0-PM,Palakkad,ICITSS - Information Technology,General,
-Southern,Alappuzha,ICITSS - Information Technology,ICITSSITT__Alappuzha_31,4,18/02/2026,05/03/2026,10-0-AM to 4-0-PM,Alappuzha,ICITSS - Information Technology,General,10/11/2025
-Southern,Alappuzha,ICITSS - Information Technology,ICITSSITT__Alappuzha_32,1,06/03/2026,24/03/2026,10-0-AM to 4-0-PM,Alappuzha,ICITSS - Information Technology,General,27/11/2025
-Southern,Alappuzha,ICITSS - Information Technology,ICITSSITT__Alappuzha_33,25,16/04/2026,04/05/2026,10-0-AM to 4-0-PM,Alappuzha,ICITSS - Information Technology,General,15/01/2026
-Southern,Thiruvananthapuram,AICITSS - Advanced Information Technology,AICITSSAdvITT__Thiruvananthapuram_20,30,09/03/2026,28/03/2026,2-0-PM to 8-0-PM,Thiruvananthapuram,AICITSS - Advanced Information Technology,General,29/01/2026
-Southern,Mysuru,ICITSS - Information Technology,ICITSSITT__Mysuru_10,0,03/03/2026,19/03/2026,10-30-AM to 4-30-PM,Mysuru,ICITSS - Information Technology,General,
-Southern,ERODE,ICITSS - Information Technology,ICITSSITT__ERODE_38,1,11/03/2026,25/03/2026,10-0-AM to 4-0-PM,ERODE,ICITSS - Information Technology,General,20/12/2025
-Southern,ERODE,ICITSS - Information Technology,ICITSSITT__ERODE_39,19,11/03/2026,25/03/2026,10-0-AM to 4-0-PM,ERODE,ICITSS - Information Technology,General,09/02/2026
-Southern,Kozhikode,ICITSS - Information Technology,ICITSSITT__Kozhikode_39,0,02/03/2026,18/03/2026,10-0-AM to 4-0-PM,Kozhikode,ICITSS - Information Technology,General,
-Southern,Kozhikode,ICITSS - Information Technology,ICITSSITT__Kozhikode_42,2,23/03/2026,10/04/2026,10-0-AM to 4-0-PM,Kozhikode,ICITSS - Information Technology,General,27/01/2026
+Southern,HYDERABAD,ICITSS - Information Technology,ICITSSITT__HYDERABAD_126,0,28/02/2026,15/03/2026,7-0-AM to 1-0-PM,HYDERABAD,ICITSS - Information Technology,General,
+Southern,HYDERABAD,ICITSS - Information Technology,ICITSSITT__HYDERABAD_127,43,28/02/2026,15/03/2026,2-0-PM to 8-0-PM,HYDERABAD,ICITSS - Information Technology,General,13/02/2026
+Northern,SANGRUR,ICITSS - Orientation Course,ICITSSOC__SANGRUR_14,4,20/02/2026,08/03/2026,9-30-AM to 3-30-PM,SANGRUR,ICITSS - Orientation Course,General,
 Southern,KUMBAKONAM,ICITSS - Information Technology,ICITSSITT__KUMBAKONAM_16,0,25/02/2026,17/03/2026,10-0-AM to 4-0-PM,KUMBAKONAM,ICITSS - Information Technology,General,
+Southern,CHENNAI,ICITSS - Orientation Course,ICITSSOC__CHENNAI_121,0,27/02/2026,16/03/2026,7-0-AM to 1-30-PM,CHENNAI,ICITSS - Orientation Course,General,
+Southern,CHENNAI,ICITSS - Orientation Course,ICITSSOC__CHENNAI_122,0,27/02/2026,16/03/2026,1-45-PM to 8-15-PM,CHENNAI,ICITSS - Orientation Course,General,
+Southern,Belagavi,ICITSS - Information Technology,ICITSSITT__Belagavi_26,0,27/02/2026,18/03/2026,1-0-PM to 7-0-PM,Belagavi,ICITSS - Information Technology,General,
 Southern,COIMBATORE,ICITSS - Information Technology,ICITSSITT__COIMBATORE_36,0,26/02/2026,16/03/2026,10-0-AM to 4-0-PM,COIMBATORE,ICITSS - Information Technology,General,
+Southern,Ballari,ICITSS - Orientation Course,ICITSSOC__Ballari_8,1,23/02/2026,11/03/2026,8-0-AM to 2-0-PM,Ballari,ICITSS - Orientation Course,General,
+Southern,Mysuru,ICITSS - Information Technology,ICITSSITT__Mysuru_10,0,03/03/2026,19/03/2026,10-30-AM to 4-30-PM,Mysuru,ICITSS - Information Technology,General,
+Southern,ERNAKULAM,ICITSS - Information Technology,ICITSSITT__ERNAKULAM_33,26,10/03/2026,01/04/2026,12-30-PM to 6-30-PM,ERNAKULAM,ICITSS - Information Technology,General,16/01/2026
+Southern,Kollam,ICITSS - Information Technology,ICITSSITT__Kollam_33,17,09/03/2026,27/03/2026,8-0-AM to 2-0-PM,Kollam,ICITSS - Information Technology,General,10/12/2025
+Southern,MADURAI,ICITSS - Information Technology,ICITSSITT__MADURAI_12,0,24/02/2026,14/03/2026,10-0-AM to 4-0-PM,MADURAI,ICITSS - Information Technology,General,
 Southern,KANNUR,ICITSS - Information Technology,ICITSSITT__KANNUR_20,0,20/02/2026,10/03/2026,10-30-AM to 4-30-PM,KANNUR,ICITSS - Information Technology,General,
 Southern,KANNUR,ICITSS - Information Technology,ICITSSITT__KANNUR_21,0,12/03/2026,31/03/2026,10-30-AM to 4-30-PM,KANNUR,ICITSS - Information Technology,General,
 Southern,TIRUPATI,AICITSS - Advanced Information Technology,AICITSSAdvITT__TIRUPATI_32,19,05/03/2026,25/03/2026,2-0-PM to 8-0-PM,TIRUPATI,AICITSS - Advanced Information Technology,General,13/02/2026
-Southern,VIJAYAWADA,AICITSS - Advanced Information Technology,AICITSSAdvITT__VIJAYAWADA_29,38,19/02/2026,07/03/2026,6-30-AM to 12-30-PM,VIJAYAWADA,AICITSS - Advanced Information Technology,General,02/02/2026
-Southern,TIRUPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__TIRUPUR_12,12,04/04/2026,18/04/2026,10-0-AM to 4-0-PM,TIRUPUR,AICITSS - Advanced Information Technology,General,09/02/2026
-Northern,SANGRUR,ICITSS - Orientation Course,ICITSSOC__SANGRUR_14,4,20/02/2026,08/03/2026,9-30-AM to 3-30-PM,SANGRUR,ICITSS - Orientation Course,General,
-Western,AHMEDNAGAR,AICITSS - Advanced Information Technology,AICITSSAdvITT__AHMEDNAGAR_12,17,20/02/2026,06/03/2026,2-0-PM to 8-0-PM,AHMEDNAGAR,AICITSS - Advanced Information Technology,General,26/11/2025
-Southern,VELLORE,AICITSS - Advanced Information Technology,AICITSSAdvITT__VELLORE_33,6,04/03/2026,20/03/2026,10-0-AM to 4-0-PM,VELLORE,AICITSS - Advanced Information Technology,General,16/12/2025
-Southern,Chengalpattu,ICITSS - Orientation Course,ICITSSOC__Chengalpattu_32,42,02/03/2026,18/03/2026,1-30-PM to 7-30-PM,Chengalpattu,ICITSS - Orientation Course,General,
-Southern,HYDERABAD,ICITSS - Information Technology,ICITSSITT__HYDERABAD_126,0,28/02/2026,15/03/2026,7-0-AM to 1-0-PM,HYDERABAD,ICITSS - Information Technology,General,
-Southern,HYDERABAD,ICITSS - Information Technology,ICITSSITT__HYDERABAD_127,43,28/02/2026,15/03/2026,2-0-PM to 8-0-PM,HYDERABAD,ICITSS - Information Technology,General,13/02/2026
 Southern,GUNTUR,ICITSS - Orientation Course,ICITSSOC__GUNTUR_23,49,10/03/2026,26/03/2026,1-0-AM to 1-0-AM,GUNTUR,ICITSS - Orientation Course,General,
-Southern,Thrissur,AICITSS - Advanced Information Technology,AICITSSAdvITT__Thrissur_27,0,19/02/2026,07/03/2026,10-0-AM to 4-0-PM,Thrissur,AICITSS - Advanced Information Technology,General,
+Southern,TIRUPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__TIRUPUR_12,12,04/04/2026,18/04/2026,10-0-AM to 4-0-PM,TIRUPUR,AICITSS - Advanced Information Technology,General,09/02/2026
+Southern,Chengalpattu,ICITSS - Orientation Course,ICITSSOC__Chengalpattu_32,42,02/03/2026,18/03/2026,1-30-PM to 7-30-PM,Chengalpattu,ICITSS - Orientation Course,General,
+Southern,VIJAYAWADA,AICITSS - Advanced Information Technology,AICITSSAdvITT__VIJAYAWADA_29,38,19/02/2026,07/03/2026,6-30-AM to 12-30-PM,VIJAYAWADA,AICITSS - Advanced Information Technology,General,02/02/2026
+Southern,VELLORE,AICITSS - Advanced Information Technology,AICITSSAdvITT__VELLORE_33,6,04/03/2026,20/03/2026,10-0-AM to 4-0-PM,VELLORE,AICITSS - Advanced Information Technology,General,16/12/2025
+Southern,Thiruvananthapuram,AICITSS - Advanced Information Technology,AICITSSAdvITT__Thiruvananthapuram_20,30,09/03/2026,28/03/2026,2-0-PM to 8-0-PM,Thiruvananthapuram,AICITSS - Advanced Information Technology,General,29/01/2026
 Western,AHMEDABAD,AICITSS - Advanced Information Technology,AICITSSAdvITT__AHMEDABAD_109,0,18/02/2026,05/03/2026,7-30-AM to 1-30-PM,AHMEDABAD,AICITSS - Advanced Information Technology,General,
 Western,AHMEDABAD,AICITSS - Advanced Information Technology,AICITSSAdvITT__AHMEDABAD_110,0,18/02/2026,05/03/2026,2-30-PM to 8-30-PM,AHMEDABAD,AICITSS - Advanced Information Technology,General,
 Western,AHMEDABAD,AICITSS - Advanced Information Technology,AICITSSAdvITT__AHMEDABAD_111,0,18/02/2026,05/03/2026,7-30-AM to 1-30-PM,AHMEDABAD,AICITSS - Advanced Information Technology,General,
 Western,AHMEDABAD,AICITSS - Advanced Information Technology,AICITSSAdvITT__AHMEDABAD_112,19,06/03/2026,20/03/2026,7-30-AM to 1-30-PM,AHMEDABAD,AICITSS - Advanced Information Technology,General,14/02/2026
-Southern,Mangaluru,ICITSS - Information Technology,ICITSSITT__Mangaluru_40,0,23/02/2026,11/03/2026,10-0-AM to 4-0-PM,Mangaluru,ICITSS - Information Technology,General,
-Southern,Mangaluru,ICITSS - Information Technology,ICITSSITT__Mangaluru_41,8,23/02/2026,11/03/2026,10-0-AM to 4-0-PM,Mangaluru,ICITSS - Information Technology,General,13/02/2026
-Southern,Belagavi,ICITSS - Information Technology,ICITSSITT__Belagavi_26,0,27/02/2026,18/03/2026,1-0-PM to 7-0-PM,Belagavi,ICITSS - Information Technology,General,
-Southern,Palakkad,ICITSS - Orientation Course,ICITSSOC__Palakkad_14,47,11/03/2026,28/03/2026,9-30-AM to 4-0-PM,Palakkad,ICITSS - Orientation Course,General,
-Southern,Kollam,ICITSS - Information Technology,ICITSSITT__Kollam_33,17,09/03/2026,27/03/2026,8-0-AM to 2-0-PM,Kollam,ICITSS - Information Technology,General,10/12/2025
-Southern,ERNAKULAM,ICITSS - Information Technology,ICITSSITT__ERNAKULAM_33,26,10/03/2026,01/04/2026,12-30-PM to 6-30-PM,ERNAKULAM,ICITSS - Information Technology,General,16/01/2026
-Southern,KOTTAYAM,ICITSS - Orientation Course,ICITSSOC__KOTTAYAM_15,49,09/03/2026,28/03/2026,10-0-AM to 5-0-PM,KOTTAYAM,ICITSS - Orientation Course,General,
-Southern,BENGALURU,ICITSS - Orientation Course,ICITSSOC__BENGALURU_171,0,19/02/2026,07/03/2026,7-0-AM to 1-30-PM,BENGALURU,ICITSS - Orientation Course,General,
-Southern,BENGALURU,ICITSS - Orientation Course,ICITSSOC__BENGALURU_172,18,19/02/2026,07/03/2026,2-0-PM to 8-30-PM,BENGALURU,ICITSS - Orientation Course,General,
-Southern,BENGALURU,ICITSS - Orientation Course,ICITSSOC__BENGALURU_173,39,26/02/2026,14/03/2026,7-0-AM to 1-30-PM,BENGALURU,ICITSS - Orientation Course,General,
-Southern,BENGALURU,ICITSS - Orientation Course,ICITSSOC__BENGALURU_174,49,26/02/2026,14/03/2026,2-0-PM to 8-30-PM,BENGALURU,ICITSS - Orientation Course,General,
-Southern,MADURAI,ICITSS - Information Technology,ICITSSITT__MADURAI_12,0,24/02/2026,14/03/2026,10-0-AM to 4-0-PM,MADURAI,ICITSS - Information Technology,General,
-Southern,SIVAKASI,ICITSS - Information Technology,ICITSSITT__SIVAKASI_15,11,23/02/2026,13/03/2026,10-0-AM to 4-0-PM,SIVAKASI,ICITSS - Information Technology,General,18/12/2025
-Southern,Thiruvananthapuram,ICITSS - Information Technology,ICITSSITT__Thiruvananthapuram_33,5,09/03/2026,31/03/2026,9-0-AM to 3-0-PM,Thiruvananthapuram,ICITSS - Information Technology,General,04/12/2025
-Southern,Thiruvananthapuram,ICITSS - Information Technology,ICITSSITT__Thiruvananthapuram_34,32,07/04/2026,30/04/2026,9-0-AM to 3-0-PM,Thiruvananthapuram,ICITSS - Information Technology,General,24/01/2026
-Southern,HUBBALLI,ICITSS - Orientation Course,ICITSSOC__HUBBALLI_11,27,24/02/2026,12/03/2026,10-0-AM to 5-0-PM,HUBBALLI,ICITSS - Orientation Course,General,
-Southern,Kozhikode,ICITSS - Orientation Course,ICITSSOC__Kozhikode_32,2,02/03/2026,18/03/2026,10-0-AM to 4-0-PM,Kozhikode,ICITSS - Orientation Course,General,
-Southern,Kozhikode,ICITSS - Orientation Course,ICITSSOC__Kozhikode_34,20,23/03/2026,10/04/2026,10-0-AM to 5-0-PM,Kozhikode,ICITSS - Orientation Course,General,
+Western,AHMEDNAGAR,AICITSS - Advanced Information Technology,AICITSSAdvITT__AHMEDNAGAR_12,17,20/02/2026,06/03/2026,2-0-PM to 8-0-PM,AHMEDNAGAR,AICITSS - Advanced Information Technology,General,26/11/2025
 Southern,ERODE,ICITSS - Orientation Course,ICITSSOC__ERODE_18,20,24/02/2026,10/03/2026,10-0-AM to 4-0-PM,ERODE,ICITSS - Orientation Course,General,
-Western,GANDHIDHAM,ICITSS - Information Technology,ICITSSITT__GANDHIDHAM_17,0,20/02/2026,07/03/2026,8-0-AM to 2-0-PM,GANDHIDHAM,ICITSS - Information Technology,General,
-Western,GANDHIDHAM,ICITSS - Information Technology,ICITSSITT__GANDHIDHAM_18,0,20/02/2026,07/03/2026,2-0-PM to 8-0-PM,GANDHIDHAM,ICITSS - Information Technology,General,
-Southern,TIRUPATI,ICITSS - Information Technology,ICITSSITT__TIRUPATI_36,20,05/03/2026,25/03/2026,7-0-AM to 1-0-PM,TIRUPATI,ICITSS - Information Technology,General,13/02/2026
-Southern,KANNUR,ICITSS - Orientation Course,ICITSSOC__KANNUR_22,10,21/02/2026,10/03/2026,10-0-AM to 5-0-PM,KANNUR,ICITSS - Orientation Course,General,
-Southern,KANNUR,ICITSS - Orientation Course,ICITSSOC__KANNUR_21,48,08/04/2026,28/04/2026,10-0-AM to 5-0-PM,KANNUR,ICITSS - Orientation Course,General,
-Southern,TIRUNELVELI,ICITSS - Information Technology,ICITSSITT__TIRUNELVELI_22,16,09/03/2026,26/03/2026,10-0-AM to 4-0-PM,TIRUNELVELI,ICITSS - Information Technology,General,12/01/2026
-Southern,VIJAYAWADA,ICITSS - Information Technology,ICITSSITT__VIJAYAWADA_49,6,19/02/2026,07/03/2026,1-30-PM to 7-30-PM,VIJAYAWADA,ICITSS - Information Technology,General,02/02/2026
-Western,AMRAVATI,ICITSS - Information Technology,ICITSSITT__AMRAVATI_18,0,21/02/2026,10/03/2026,10-30-AM to 4-30-PM,AMRAVATI,ICITSS - Information Technology,General,
+Southern,Palakkad,AICITSS - Advanced Information Technology,AICITSSAdvITT__Palakkad_9,10,11/03/2026,28/03/2026,10-0-AM to 4-0-PM,Palakkad,AICITSS - Advanced Information Technology,General,14/07/2025
 Southern,Alappuzha,ICITSS - Orientation Course,ICITSSOC__Alappuzha_68,0,18/02/2026,05/03/2026,9-30-AM to 4-30-PM,Alappuzha,ICITSS - Orientation Course,General,
 Southern,Alappuzha,ICITSS - Orientation Course,ICITSSOC__Alappuzha_69,3,18/02/2026,05/03/2026,9-30-AM to 4-30-PM,Alappuzha,ICITSS - Orientation Course,General,
 Southern,Alappuzha,ICITSS - Orientation Course,ICITSSOC__Alappuzha_71,7,18/02/2026,05/03/2026,9-30-AM to 4-30-PM,Alappuzha,ICITSS - Orientation Course,General,
@@ -277,118 +255,140 @@ Southern,Alappuzha,ICITSS - Orientation Course,ICITSSOC__Alappuzha_72,25,06/03/2
 Southern,Alappuzha,ICITSS - Orientation Course,ICITSSOC__Alappuzha_73,43,23/03/2026,11/04/2026,9-30-AM to 4-30-PM,Alappuzha,ICITSS - Orientation Course,General,
 Southern,Alappuzha,ICITSS - Orientation Course,ICITSSOC__Alappuzha_74,40,10/04/2026,29/04/2026,9-30-AM to 4-30-PM,Alappuzha,ICITSS - Orientation Course,General,
 Southern,Alappuzha,ICITSS - Orientation Course,ICITSSOC__Alappuzha_75,40,04/05/2026,20/05/2026,9-30-AM to 4-30-PM,Alappuzha,ICITSS - Orientation Course,General,
-Southern,TIRUPUR,ICITSS - Information Technology,ICITSSITT__TIRUPUR_20,3,28/02/2026,14/03/2026,10-0-AM to 4-0-PM,TIRUPUR,ICITSS - Information Technology,General,06/01/2026
+Southern,Kozhikode,ICITSS - Information Technology,ICITSSITT__Kozhikode_39,0,02/03/2026,18/03/2026,10-0-AM to 4-0-PM,Kozhikode,ICITSS - Information Technology,General,
+Southern,Kozhikode,ICITSS - Information Technology,ICITSSITT__Kozhikode_42,2,23/03/2026,10/04/2026,10-0-AM to 4-0-PM,Kozhikode,ICITSS - Information Technology,General,27/01/2026
 Southern,HYDERABAD,ICITSS - Orientation Course,ICITSSOC__HYDERABAD_116,0,28/02/2026,15/03/2026,7-0-AM to 1-30-PM,HYDERABAD,ICITSS - Orientation Course,General,
 Southern,HYDERABAD,ICITSS - Orientation Course,ICITSSOC__HYDERABAD_117,16,28/02/2026,15/03/2026,2-0-PM to 8-30-PM,HYDERABAD,ICITSS - Orientation Course,General,
-Southern,CHENNAI,ICITSS - Orientation Course,ICITSSOC__CHENNAI_121,0,27/02/2026,16/03/2026,7-0-AM to 1-30-PM,CHENNAI,ICITSS - Orientation Course,General,
-Southern,CHENNAI,ICITSS - Orientation Course,ICITSSOC__CHENNAI_122,0,27/02/2026,16/03/2026,1-45-PM to 8-15-PM,CHENNAI,ICITSS - Orientation Course,General,
-Southern,VISAKHAPATNAM,ICITSS - Information Technology,ICITSSITT__VISAKHAPATNAM_29,0,19/02/2026,09/03/2026,10-0-AM to 4-0-PM,VISAKHAPATNAM,ICITSS - Information Technology,General,
-Western,AHMEDNAGAR,ICITSS - Information Technology,ICITSSITT__AHMEDNAGAR_18,20,07/03/2026,21/03/2026,8-0-AM to 2-0-PM,AHMEDNAGAR,ICITSS - Information Technology,General,22/12/2025
+Southern,BENGALURU,ICITSS - Orientation Course,ICITSSOC__BENGALURU_171,0,19/02/2026,07/03/2026,7-0-AM to 1-30-PM,BENGALURU,ICITSS - Orientation Course,General,
+Southern,BENGALURU,ICITSS - Orientation Course,ICITSSOC__BENGALURU_172,18,19/02/2026,07/03/2026,2-0-PM to 8-30-PM,BENGALURU,ICITSS - Orientation Course,General,
+Southern,BENGALURU,ICITSS - Orientation Course,ICITSSOC__BENGALURU_173,39,26/02/2026,14/03/2026,7-0-AM to 1-30-PM,BENGALURU,ICITSS - Orientation Course,General,
+Southern,BENGALURU,ICITSS - Orientation Course,ICITSSOC__BENGALURU_174,49,26/02/2026,14/03/2026,2-0-PM to 8-30-PM,BENGALURU,ICITSS - Orientation Course,General,
+Southern,HUBBALLI,ICITSS - Orientation Course,ICITSSOC__HUBBALLI_11,27,24/02/2026,12/03/2026,10-0-AM to 5-0-PM,HUBBALLI,ICITSS - Orientation Course,General,
 Southern,Thrissur,ICITSS - Information Technology,ICITSSITT__Thrissur_24,0,09/03/2026,26/03/2026,10-0-AM to 4-0-PM,Thrissur,ICITSS - Information Technology,General,
+Southern,Mangaluru,ICITSS - Information Technology,ICITSSITT__Mangaluru_40,0,23/02/2026,11/03/2026,10-0-AM to 4-0-PM,Mangaluru,ICITSS - Information Technology,General,
+Southern,Mangaluru,ICITSS - Information Technology,ICITSSITT__Mangaluru_41,8,23/02/2026,11/03/2026,10-0-AM to 4-0-PM,Mangaluru,ICITSS - Information Technology,General,13/02/2026
+Southern,KOTTAYAM,ICITSS - Orientation Course,ICITSSOC__KOTTAYAM_15,49,09/03/2026,28/03/2026,10-0-AM to 5-0-PM,KOTTAYAM,ICITSS - Orientation Course,General,
+Southern,ERNAKULAM,ICITSS - Orientation Course,ICITSSOC__ERNAKULAM_38,3,03/03/2026,19/03/2026,9-30-AM to 4-30-PM,ERNAKULAM,ICITSS - Orientation Course,General,
+Southern,VISAKHAPATNAM,ICITSS - Information Technology,ICITSSITT__VISAKHAPATNAM_29,0,19/02/2026,09/03/2026,10-0-AM to 4-0-PM,VISAKHAPATNAM,ICITSS - Information Technology,General,
+Southern,KANNUR,ICITSS - Orientation Course,ICITSSOC__KANNUR_22,10,21/02/2026,10/03/2026,10-0-AM to 5-0-PM,KANNUR,ICITSS - Orientation Course,General,
+Southern,KANNUR,ICITSS - Orientation Course,ICITSSOC__KANNUR_21,48,08/04/2026,28/04/2026,10-0-AM to 5-0-PM,KANNUR,ICITSS - Orientation Course,General,
+Southern,TIRUNELVELI,ICITSS - Information Technology,ICITSSITT__TIRUNELVELI_22,16,09/03/2026,26/03/2026,10-0-AM to 4-0-PM,TIRUNELVELI,ICITSS - Information Technology,General,12/01/2026
+Southern,TIRUPATI,ICITSS - Information Technology,ICITSSITT__TIRUPATI_36,20,05/03/2026,25/03/2026,7-0-AM to 1-0-PM,TIRUPATI,ICITSS - Information Technology,General,13/02/2026
+Southern,Thrissur,ICITSS - Orientation Course,ICITSSOC__Thrissur_20,26,02/03/2026,18/03/2026,10-0-AM to 5-0-PM,Thrissur,ICITSS - Orientation Course,General,
+Southern,TIRUPUR,ICITSS - Information Technology,ICITSSITT__TIRUPUR_20,3,28/02/2026,14/03/2026,10-0-AM to 4-0-PM,TIRUPUR,ICITSS - Information Technology,General,06/01/2026
+Western,AHMEDNAGAR,ICITSS - Information Technology,ICITSSITT__AHMEDNAGAR_18,20,07/03/2026,21/03/2026,8-0-AM to 2-0-PM,AHMEDNAGAR,ICITSS - Information Technology,General,22/12/2025
+Southern,SIVAKASI,ICITSS - Information Technology,ICITSSITT__SIVAKASI_15,11,23/02/2026,13/03/2026,10-0-AM to 4-0-PM,SIVAKASI,ICITSS - Information Technology,General,18/12/2025
+Southern,Thiruvananthapuram,ICITSS - Information Technology,ICITSSITT__Thiruvananthapuram_33,5,09/03/2026,31/03/2026,9-0-AM to 3-0-PM,Thiruvananthapuram,ICITSS - Information Technology,General,04/12/2025
+Southern,Thiruvananthapuram,ICITSS - Information Technology,ICITSSITT__Thiruvananthapuram_34,32,07/04/2026,30/04/2026,9-0-AM to 3-0-PM,Thiruvananthapuram,ICITSS - Information Technology,General,24/01/2026
+Southern,VISAKHAPATNAM,ICITSS - Orientation Course,ICITSSOC__VISAKHAPATNAM_26,0,19/02/2026,09/03/2026,10-0-AM to 4-30-PM,VISAKHAPATNAM,ICITSS - Orientation Course,General,
 Western,AHMEDABAD,ICITSS - Information Technology,ICITSSITT__AHMEDABAD_192,0,18/02/2026,05/03/2026,7-30-AM to 1-30-PM,AHMEDABAD,ICITSS - Information Technology,General,
 Western,AHMEDABAD,ICITSS - Information Technology,ICITSSITT__AHMEDABAD_193,1,18/02/2026,05/03/2026,2-30-PM to 8-30-PM,AHMEDABAD,ICITSS - Information Technology,General,27/01/2026
 Western,AHMEDABAD,ICITSS - Information Technology,ICITSSITT__AHMEDABAD_194,0,18/02/2026,05/03/2026,7-30-AM to 1-30-PM,AHMEDABAD,ICITSS - Information Technology,General,
 Western,AHMEDABAD,ICITSS - Information Technology,ICITSSITT__AHMEDABAD_195,13,18/02/2026,05/03/2026,2-30-PM to 8-30-PM,AHMEDABAD,ICITSS - Information Technology,General,07/02/2026
+Southern,VIJAYAWADA,ICITSS - Information Technology,ICITSSITT__VIJAYAWADA_49,6,19/02/2026,07/03/2026,1-30-PM to 7-30-PM,VIJAYAWADA,ICITSS - Information Technology,General,02/02/2026
+Western,JAMNAGAR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__JAMNAGAR_7,23,17/02/2026,03/03/2026,8-0-AM to 2-0-AM,JAMNAGAR,Advanced (ICITSS) MCS Course,General,
+Southern,Palakkad,ICITSS - Information Technology,ICITSSITT__Palakkad_33,0,20/02/2026,09/03/2026,10-0-AM to 4-0-PM,Palakkad,ICITSS - Information Technology,General,
+Western,GANDHIDHAM,ICITSS - Information Technology,ICITSSITT__GANDHIDHAM_17,0,20/02/2026,07/03/2026,8-0-AM to 2-0-PM,GANDHIDHAM,ICITSS - Information Technology,General,
+Western,GANDHIDHAM,ICITSS - Information Technology,ICITSSITT__GANDHIDHAM_18,0,20/02/2026,07/03/2026,2-0-PM to 8-0-PM,GANDHIDHAM,ICITSS - Information Technology,General,
+Southern,Kozhikode,ICITSS - Orientation Course,ICITSSOC__Kozhikode_32,2,02/03/2026,18/03/2026,10-0-AM to 4-0-PM,Kozhikode,ICITSS - Orientation Course,General,
+Southern,Kozhikode,ICITSS - Orientation Course,ICITSSOC__Kozhikode_34,20,23/03/2026,10/04/2026,10-0-AM to 5-0-PM,Kozhikode,ICITSS - Orientation Course,General,
 Western,ANAND,ICITSS - Information Technology,ICITSSITT__ANAND_32,19,02/03/2026,18/03/2026,7-0-AM to 1-0-PM,ANAND,ICITSS - Information Technology,General,30/01/2026
 Western,ANAND,ICITSS - Information Technology,ICITSSITT__ANAND_33,16,02/03/2026,18/03/2026,1-0-PM to 7-0-PM,ANAND,ICITSS - Information Technology,General,30/01/2026
-Southern,SIVAKASI,ICITSS - Orientation Course,ICITSSOC__SIVAKASI_11,7,23/02/2026,13/03/2026,10-0-AM to 5-0-PM,SIVAKASI,ICITSS - Orientation Course,General,
+Western,MUMBAI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__MUMBAI_148,0,02/03/2026,24/03/2026,8-0-AM to 2-0-PM,MUMBAI,Advanced (ICITSS) MCS Course,General,
+Western,MUMBAI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__MUMBAI_149,11,02/03/2026,24/03/2026,2-30-PM to 8-30-PM,MUMBAI,Advanced (ICITSS) MCS Course,General,
+Western,MUMBAI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__MUMBAI_153,29,02/03/2026,24/03/2026,8-0-AM to 2-0-PM,MUMBAI,Advanced (ICITSS) MCS Course,General,
+Western,NASHIK,Advanced (ICITSS) MCS Course,AdvICITSSMCS__NASHIK_17,30,02/03/2026,17/03/2026,10-0-AM to 5-0-PM,NASHIK,Advanced (ICITSS) MCS Course,General,
+Western,AMRAVATI,ICITSS - Information Technology,ICITSSITT__AMRAVATI_18,0,21/02/2026,10/03/2026,10-30-AM to 4-30-PM,AMRAVATI,ICITSS - Information Technology,General,
+Western,KalyanDombivli,Advanced (ICITSS) MCS Course,AdvICITSSMCS__KalyanDombivli_35,33,17/02/2026,07/03/2026,8-30-AM to 2-30-PM,KalyanDombivli,Advanced (ICITSS) MCS Course,General,
+Western,KalyanDombivli,Advanced (ICITSS) MCS Course,AdvICITSSMCS__KalyanDombivli_36,50,10/03/2026,28/03/2026,8-30-AM to 2-30-PM,KalyanDombivli,Advanced (ICITSS) MCS Course,General,
 Southern,TIRUPATI,ICITSS - Orientation Course,ICITSSOC__TIRUPATI_36,19,05/03/2026,25/03/2026,2-0-PM to 8-0-PM,TIRUPATI,ICITSS - Orientation Course,General,
+Western,AKOLA,ICITSS - Orientation Course,ICITSSOC__AKOLA_18,19,23/02/2026,12/03/2026,8-0-AM to 2-0-PM,AKOLA,ICITSS - Orientation Course,General,
+Southern,TIRUPUR,ICITSS - Orientation Course,ICITSSOC__TIRUPUR_17,4,16/03/2026,30/03/2026,10-0-AM to 5-0-PM,TIRUPUR,ICITSS - Orientation Course,General,
 Southern,Tiruchirapalli,ICITSS - Orientation Course,ICITSSOC__Tiruchirapalli_10,46,18/03/2026,08/04/2026,10-30-AM to 5-30-PM,Tiruchirapalli,ICITSS - Orientation Course,General,
+Southern,SIVAKASI,ICITSS - Orientation Course,ICITSSOC__SIVAKASI_11,7,23/02/2026,13/03/2026,10-0-AM to 5-0-PM,SIVAKASI,ICITSS - Orientation Course,General,
 Southern,Thiruvananthapuram,ICITSS - Orientation Course,ICITSSOC__Thiruvananthapuram_21,38,09/03/2026,28/03/2026,10-0-AM to 5-0-PM,Thiruvananthapuram,ICITSS - Orientation Course,General,
-Southern,Ballari,ICITSS - Orientation Course,ICITSSOC__Ballari_8,1,23/02/2026,11/03/2026,8-0-AM to 2-0-PM,Ballari,ICITSS - Orientation Course,General,
-Southern,ERNAKULAM,ICITSS - Orientation Course,ICITSSOC__ERNAKULAM_38,3,03/03/2026,19/03/2026,9-30-AM to 4-30-PM,ERNAKULAM,ICITSS - Orientation Course,General,
+Western,AHMEDNAGAR,ICITSS - Orientation Course,ICITSSOC__AHMEDNAGAR_9,20,20/02/2026,06/03/2026,8-0-AM to 2-0-PM,AHMEDNAGAR,ICITSS - Orientation Course,General,
+Southern,Palakkad,ICITSS - Orientation Course,ICITSSOC__Palakkad_14,47,11/03/2026,28/03/2026,9-30-AM to 4-0-PM,Palakkad,ICITSS - Orientation Course,General,
 Southern,VIJAYAWADA,ICITSS - Orientation Course,ICITSSOC__VIJAYAWADA_33,0,21/02/2026,07/03/2026,7-0-AM to 1-0-PM,VIJAYAWADA,ICITSS - Orientation Course,General,
 Southern,VIJAYAWADA,ICITSS - Orientation Course,ICITSSOC__VIJAYAWADA_34,49,09/03/2026,23/03/2026,7-0-AM to 1-0-PM,VIJAYAWADA,ICITSS - Orientation Course,General,
-Southern,TIRUPUR,ICITSS - Orientation Course,ICITSSOC__TIRUPUR_17,4,16/03/2026,30/03/2026,10-0-AM to 5-0-PM,TIRUPUR,ICITSS - Orientation Course,General,
-Southern,VISAKHAPATNAM,ICITSS - Orientation Course,ICITSSOC__VISAKHAPATNAM_26,0,19/02/2026,09/03/2026,10-0-AM to 4-30-PM,VISAKHAPATNAM,ICITSS - Orientation Course,General,
-Western,AKOLA,ICITSS - Orientation Course,ICITSSOC__AKOLA_18,19,23/02/2026,12/03/2026,8-0-AM to 2-0-PM,AKOLA,ICITSS - Orientation Course,General,
-Southern,Thrissur,ICITSS - Orientation Course,ICITSSOC__Thrissur_20,26,02/03/2026,18/03/2026,10-0-AM to 5-0-PM,Thrissur,ICITSS - Orientation Course,General,
-Western,AHMEDNAGAR,ICITSS - Orientation Course,ICITSSOC__AHMEDNAGAR_9,20,20/02/2026,06/03/2026,8-0-AM to 2-0-PM,AHMEDNAGAR,ICITSS - Orientation Course,General,
 Western,AHMEDABAD,ICITSS - Orientation Course,ICITSSOC__AHMEDABAD_173,0,18/02/2026,05/03/2026,7-30-AM to 2-15-PM,AHMEDABAD,ICITSS - Orientation Course,General,
 Western,AHMEDABAD,ICITSS - Orientation Course,ICITSSOC__AHMEDABAD_174,0,18/02/2026,05/03/2026,2-30-PM to 8-45-PM,AHMEDABAD,ICITSS - Orientation Course,General,
 Western,AHMEDABAD,ICITSS - Orientation Course,ICITSSOC__AHMEDABAD_175,0,18/02/2026,05/03/2026,7-30-AM to 2-15-PM,AHMEDABAD,ICITSS - Orientation Course,General,
 Western,AHMEDABAD,ICITSS - Orientation Course,ICITSSOC__AHMEDABAD_176,12,18/02/2026,05/03/2026,2-30-PM to 8-45-PM,AHMEDABAD,ICITSS - Orientation Course,General,
-Western,MUMBAI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__MUMBAI_148,0,02/03/2026,24/03/2026,8-0-AM to 2-0-PM,MUMBAI,Advanced (ICITSS) MCS Course,General,
-Western,MUMBAI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__MUMBAI_149,11,02/03/2026,24/03/2026,2-30-PM to 8-30-PM,MUMBAI,Advanced (ICITSS) MCS Course,General,
-Western,MUMBAI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__MUMBAI_153,29,02/03/2026,24/03/2026,8-0-AM to 2-0-PM,MUMBAI,Advanced (ICITSS) MCS Course,General,
-Western,NAVI MUMBAI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__NAVI MUMBAI_17,50,04/03/2026,21/03/2026,9-0-AM to 4-0-PM,NAVI MUMBAI,Advanced (ICITSS) MCS Course,General,
-Western,PIMPRI CHINCHWAD,Advanced (ICITSS) MCS Course,AdvICITSSMCS__PIMPRI CHINCHWAD_36,31,04/03/2026,23/03/2026,8-0-AM to 2-0-PM,PIMPRI CHINCHWAD,Advanced (ICITSS) MCS Course,General,
-Western,NASHIK,Advanced (ICITSS) MCS Course,AdvICITSSMCS__NASHIK_17,30,02/03/2026,17/03/2026,10-0-AM to 5-0-PM,NASHIK,Advanced (ICITSS) MCS Course,General,
-Western,KalyanDombivli,Advanced (ICITSS) MCS Course,AdvICITSSMCS__KalyanDombivli_35,33,17/02/2026,07/03/2026,8-30-AM to 2-30-PM,KalyanDombivli,Advanced (ICITSS) MCS Course,General,
-Western,KalyanDombivli,Advanced (ICITSS) MCS Course,AdvICITSSMCS__KalyanDombivli_36,50,10/03/2026,28/03/2026,8-30-AM to 2-30-PM,KalyanDombivli,Advanced (ICITSS) MCS Course,General,
 Western,PUNE,Advanced (ICITSS) MCS Course,AdvICITSSMCS__PUNE_106,0,23/02/2026,11/03/2026,2-0-PM to 8-0-PM,PUNE,Advanced (ICITSS) MCS Course,General,
 Western,PUNE,Advanced (ICITSS) MCS Course,AdvICITSSMCS__PUNE_109,0,23/02/2026,11/03/2026,7-30-AM to 1-30-PM,PUNE,Advanced (ICITSS) MCS Course,General,
 Western,PUNE,Advanced (ICITSS) MCS Course,AdvICITSSMCS__PUNE_110,19,23/02/2026,11/03/2026,7-30-AM to 1-30-PM,PUNE,Advanced (ICITSS) MCS Course,General,
-Western,JAMNAGAR,Advanced (ICITSS) MCS Course,AdvICITSSMCS__JAMNAGAR_7,23,17/02/2026,03/03/2026,8-0-AM to 2-0-AM,JAMNAGAR,Advanced (ICITSS) MCS Course,General,
-Western,THANE,Advanced (ICITSS) MCS Course,AdvICITSSMCS__THANE_79,46,10/03/2026,28/03/2026,2-30-PM to 8-30-PM,THANE,Advanced (ICITSS) MCS Course,General,
-Western,THANE,Advanced (ICITSS) MCS Course,AdvICITSSMCS__THANE_82,5,10/03/2026,28/03/2026,8-0-AM to 2-0-PM,THANE,Advanced (ICITSS) MCS Course,General,
-Western,NAVSARI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__NAVSARI_8,21,26/02/2026,14/03/2026,8-0-AM to 2-0-PM,NAVSARI,Advanced (ICITSS) MCS Course,General,
+Western,NAVI MUMBAI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__NAVI MUMBAI_17,50,04/03/2026,21/03/2026,9-0-AM to 4-0-PM,NAVI MUMBAI,Advanced (ICITSS) MCS Course,General,
+Western,PIMPRI CHINCHWAD,Advanced (ICITSS) MCS Course,AdvICITSSMCS__PIMPRI CHINCHWAD_36,31,04/03/2026,23/03/2026,8-0-AM to 2-0-PM,PIMPRI CHINCHWAD,Advanced (ICITSS) MCS Course,General,
 Western,VAPI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__VAPI_9,49,02/03/2026,17/03/2026,10-0-AM to 4-0-PM,VAPI,Advanced (ICITSS) MCS Course,General,
 Western,VASAI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__VASAI_56,0,27/02/2026,17/03/2026,8-0-AM to 2-0-PM,VASAI,Advanced (ICITSS) MCS Course,General,
 Western,VASAI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__VASAI_57,40,27/02/2026,17/03/2026,3-0-PM to 9-0-PM,VASAI,Advanced (ICITSS) MCS Course,General,
-Western,SURAT,AICITSS - Advanced Information Technology,AICITSSAdvITT__SURAT_74,0,23/02/2026,13/03/2026,2-30-PM to 8-30-PM,SURAT,AICITSS - Advanced Information Technology,General,
+Western,NAVSARI,Advanced (ICITSS) MCS Course,AdvICITSSMCS__NAVSARI_8,21,26/02/2026,14/03/2026,8-0-AM to 2-0-PM,NAVSARI,Advanced (ICITSS) MCS Course,General,
+Western,THANE,Advanced (ICITSS) MCS Course,AdvICITSSMCS__THANE_79,46,10/03/2026,28/03/2026,2-30-PM to 8-30-PM,THANE,Advanced (ICITSS) MCS Course,General,
+Western,THANE,Advanced (ICITSS) MCS Course,AdvICITSSMCS__THANE_82,5,10/03/2026,28/03/2026,8-0-AM to 2-0-PM,THANE,Advanced (ICITSS) MCS Course,General,
+Western,LATUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__LATUR_2,20,25/02/2026,11/03/2026,8-0-AM to 2-0-PM,LATUR,AICITSS - Advanced Information Technology,General,11/02/2026
+Western,KalyanDombivli,AICITSS - Advanced Information Technology,AICITSSAdvITT__KalyanDombivli_30_Mor DOM,22,18/03/2026,09/04/2026,8-0-AM to 2-0-PM,KalyanDombivli,AICITSS - Advanced Information Technology,General,05/01/2026
 Western,MUMBAI,AICITSS - Advanced Information Technology,AICITSSAdvITT__MUMBAI_146,0,02/03/2026,20/03/2026,8-0-AM to 2-0-PM,MUMBAI,AICITSS - Advanced Information Technology,General,
 Western,MUMBAI,AICITSS - Advanced Information Technology,AICITSSAdvITT__MUMBAI_147,33,02/03/2026,20/03/2026,2-30-PM to 8-30-PM,MUMBAI,AICITSS - Advanced Information Technology,General,12/02/2026
-Western,LATUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__LATUR_2,20,25/02/2026,11/03/2026,8-0-AM to 2-0-PM,LATUR,AICITSS - Advanced Information Technology,General,11/02/2026
-Western,PIMPRI CHINCHWAD,AICITSS - Advanced Information Technology,AICITSSAdvITT__PIMPRI CHINCHWAD_32,31,28/02/2026,18/03/2026,8-0-AM to 2-0-PM,PIMPRI CHINCHWAD,AICITSS - Advanced Information Technology,General,06/02/2026
-Western,NAVI MUMBAI,AICITSS - Advanced Information Technology,AICITSSAdvITT__NAVI MUMBAI_17,0,20/02/2026,10/03/2026,8-0-AM to 2-0-PM,NAVI MUMBAI,AICITSS - Advanced Information Technology,General,
+Western,KOLHAPUR,ICITSS - Information Technology,ICITSSITT__KOLHAPUR_21,0,20/02/2026,06/03/2026,12-30-PM to 6-30-PM,KOLHAPUR,ICITSS - Information Technology,General,
 Western,PUNE,AICITSS - Advanced Information Technology,AICITSSAdvITT__PUNE_109,0,12/03/2026,28/03/2026,7-0-AM to 1-0-PM,PUNE,AICITSS - Advanced Information Technology,General,
 Western,PUNE,AICITSS - Advanced Information Technology,AICITSSAdvITT__PUNE_110,0,12/03/2026,28/03/2026,2-0-PM to 8-0-PM,PUNE,AICITSS - Advanced Information Technology,General,
-Western,KalyanDombivli,AICITSS - Advanced Information Technology,AICITSSAdvITT__KalyanDombivli_30_Mor DOM,22,18/03/2026,09/04/2026,8-0-AM to 2-0-PM,KalyanDombivli,AICITSS - Advanced Information Technology,General,05/01/2026
-Western,SOLAPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__SOLAPUR_7,15,05/03/2026,19/03/2026,8-0-AM to 2-0-PM,SOLAPUR,AICITSS - Advanced Information Technology,General,11/07/2025
-Western,Vadodara,AICITSS - Advanced Information Technology,AICITSSAdvITT__Vadodara_26,37,25/03/2026,10/04/2026,8-0-AM to 2-0-PM,Vadodara,AICITSS - Advanced Information Technology,General,14/02/2026
-Western,SURAT,ICITSS - Information Technology,ICITSSITT__SURAT_111,0,23/02/2026,13/03/2026,8-0-AM to 2-0-PM,SURAT,ICITSS - Information Technology,General,
-Western,SURAT,ICITSS - Information Technology,ICITSSITT__SURAT_112,0,23/02/2026,13/03/2026,8-0-AM to 2-0-PM,SURAT,ICITSS - Information Technology,General,
-Western,SURAT,ICITSS - Information Technology,ICITSSITT__SURAT_113,0,23/02/2026,13/03/2026,2-30-PM to 8-30-PM,SURAT,ICITSS - Information Technology,General,
-Western,VASAI,AICITSS - Advanced Information Technology,AICITSSAdvITT__VASAI_72,0,04/03/2026,18/03/2026,7-30-AM to 1-30-PM,VASAI,AICITSS - Advanced Information Technology,General,
-Western,VASAI,AICITSS - Advanced Information Technology,AICITSSAdvITT__VASAI_73,15,04/03/2026,18/03/2026,2-30-PM to 8-30-PM,VASAI,AICITSS - Advanced Information Technology,General,29/01/2026
-Western,KOLHAPUR,ICITSS - Information Technology,ICITSSITT__KOLHAPUR_21,0,20/02/2026,06/03/2026,12-30-PM to 6-30-PM,KOLHAPUR,ICITSS - Information Technology,General,
-Western,MUMBAI,ICITSS - Information Technology,ICITSSITT__MUMBAI_228,13,02/03/2026,20/03/2026,8-0-AM to 2-0-PM,MUMBAI,ICITSS - Information Technology,General,24/01/2026
-Western,MUMBAI,ICITSS - Information Technology,ICITSSITT__MUMBAI_229,0,02/03/2026,20/03/2026,2-30-PM to 8-30-PM,MUMBAI,ICITSS - Information Technology,General,
-Western,PIMPRI CHINCHWAD,ICITSS - Information Technology,ICITSSITT__PIMPRI CHINCHWAD_56,10,04/03/2026,23/03/2026,2-0-PM to 8-0-PM,PIMPRI CHINCHWAD,ICITSS - Information Technology,General,24/01/2026
-Western,NAVSARI,ICITSS - Information Technology,ICITSSITT__NAVSARI_17,15,05/03/2026,20/03/2026,8-0-AM to 2-0-PM,NAVSARI,ICITSS - Information Technology,General,31/01/2026
-Western,NAVI MUMBAI,ICITSS - Information Technology,ICITSSITT__NAVI MUMBAI_42,3,20/02/2026,10/03/2026,2-15-PM to 8-15-PM,NAVI MUMBAI,ICITSS - Information Technology,General,24/11/2025
-Western,NASHIK,ICITSS - Information Technology,ICITSSITT__NASHIK_40,0,20/02/2026,07/03/2026,2-0-PM to 8-0-PM,NASHIK,ICITSS - Information Technology,General,
-Western,NASHIK,ICITSS - Information Technology,ICITSSITT__NASHIK_41,0,09/03/2026,25/03/2026,2-0-PM to 8-0-PM,NASHIK,ICITSS - Information Technology,General,
+Western,NAVI MUMBAI,AICITSS - Advanced Information Technology,AICITSSAdvITT__NAVI MUMBAI_17,0,20/02/2026,10/03/2026,8-0-AM to 2-0-PM,NAVI MUMBAI,AICITSS - Advanced Information Technology,General,
 Western,JAMNAGAR,ICITSS - Information Technology,ICITSSITT__JAMNAGAR_19,0,17/02/2026,03/03/2026,8-0-AM to 2-0-PM,JAMNAGAR,ICITSS - Information Technology,General,
 Western,JAMNAGAR,ICITSS - Information Technology,ICITSSITT__JAMNAGAR_20,0,17/02/2026,03/03/2026,2-15-PM to 8-15-PM,JAMNAGAR,ICITSS - Information Technology,General,
-Western,PUNE,ICITSS - Information Technology,ICITSSITT__PUNE_111,0,23/02/2026,10/03/2026,7-0-AM to 1-0-PM,PUNE,ICITSS - Information Technology,General,
-Western,PUNE,ICITSS - Information Technology,ICITSSITT__PUNE_112,0,23/02/2026,10/03/2026,2-0-PM to 8-0-PM,PUNE,ICITSS - Information Technology,General,
-Western,PUNE,ICITSS - Information Technology,ICITSSITT__PUNE_113,0,10/03/2026,25/03/2026,7-0-AM to 1-0-PM,PUNE,ICITSS - Information Technology,General,
-Western,Vadodara,ICITSS - Information Technology,ICITSSITT__Vadodara_48,0,02/03/2026,19/03/2026,2-0-PM to 8-0-PM,Vadodara,ICITSS - Information Technology,General,
-Western,Vadodara,ICITSS - Information Technology,ICITSSITT__Vadodara_49,0,02/03/2026,19/03/2026,8-0-AM to 2-0-PM,Vadodara,ICITSS - Information Technology,General,
-Western,Vadodara,ICITSS - Information Technology,ICITSSITT__Vadodara_50,25,25/03/2026,10/04/2026,2-0-PM to 8-0-PM,Vadodara,ICITSS - Information Technology,General,14/02/2026
-Western,VASAI,ICITSS - Information Technology,ICITSSITT__VASAI_84,23,04/03/2026,18/03/2026,7-30-AM to 1-30-PM,VASAI,ICITSS - Information Technology,General,23/01/2026
-Western,VASAI,ICITSS - Information Technology,ICITSSITT__VASAI_85,13,04/03/2026,18/03/2026,2-30-PM to 8-30-PM,VASAI,ICITSS - Information Technology,General,23/01/2026
+Western,PIMPRI CHINCHWAD,AICITSS - Advanced Information Technology,AICITSSAdvITT__PIMPRI CHINCHWAD_32,31,28/02/2026,18/03/2026,8-0-AM to 2-0-PM,PIMPRI CHINCHWAD,AICITSS - Advanced Information Technology,General,06/02/2026
+Western,VASAI,AICITSS - Advanced Information Technology,AICITSSAdvITT__VASAI_72,0,04/03/2026,18/03/2026,7-30-AM to 1-30-PM,VASAI,AICITSS - Advanced Information Technology,General,
+Western,VASAI,AICITSS - Advanced Information Technology,AICITSSAdvITT__VASAI_73,15,04/03/2026,18/03/2026,2-30-PM to 8-30-PM,VASAI,AICITSS - Advanced Information Technology,General,29/01/2026
+Western,MUMBAI,ICITSS - Information Technology,ICITSSITT__MUMBAI_228,13,02/03/2026,20/03/2026,8-0-AM to 2-0-PM,MUMBAI,ICITSS - Information Technology,General,24/01/2026
+Western,MUMBAI,ICITSS - Information Technology,ICITSSITT__MUMBAI_229,0,02/03/2026,20/03/2026,2-30-PM to 8-30-PM,MUMBAI,ICITSS - Information Technology,General,
+Western,SURAT,AICITSS - Advanced Information Technology,AICITSSAdvITT__SURAT_74,0,23/02/2026,13/03/2026,2-30-PM to 8-30-PM,SURAT,AICITSS - Advanced Information Technology,General,
+Western,Vadodara,AICITSS - Advanced Information Technology,AICITSSAdvITT__Vadodara_26,37,25/03/2026,10/04/2026,8-0-AM to 2-0-PM,Vadodara,AICITSS - Advanced Information Technology,General,14/02/2026
+Western,NASHIK,ICITSS - Information Technology,ICITSSITT__NASHIK_40,0,20/02/2026,07/03/2026,2-0-PM to 8-0-PM,NASHIK,ICITSS - Information Technology,General,
+Western,NASHIK,ICITSS - Information Technology,ICITSSITT__NASHIK_41,0,09/03/2026,25/03/2026,2-0-PM to 8-0-PM,NASHIK,ICITSS - Information Technology,General,
+Western,SOLAPUR,AICITSS - Advanced Information Technology,AICITSSAdvITT__SOLAPUR_7,15,05/03/2026,19/03/2026,8-0-AM to 2-0-PM,SOLAPUR,AICITSS - Advanced Information Technology,General,11/07/2025
 Western,KalyanDombivli,ICITSS - Information Technology,ICITSSITT__KalyanDombivli_65_Eve 2-9 DOM,2,17/02/2026,07/03/2026,2-0-PM to 8-0-PM,KalyanDombivli,ICITSS - Information Technology,General,05/06/2025
 Western,KalyanDombivli,ICITSS - Information Technology,ICITSSITT__KalyanDombivli_81__ Ulhas_Eve,0,18/02/2026,07/03/2026,8-0-AM to 2-0-PM,KalyanDombivli,ICITSS - Information Technology,General,
 Western,KalyanDombivli,ICITSS - Information Technology,ICITSSITT_KalyanDombivli_72_Mor_20-02_DOM,2,20/02/2026,10/03/2026,8-0-AM to 2-0-PM,KalyanDombivli,ICITSS - Information Technology,General,25/08/2025
 Western,KalyanDombivli,ICITSS - Information Technology,ICITSSITT__KalyanDombivli_85,22,04/03/2026,20/03/2026,2-0-PM to 8-0-PM,KalyanDombivli,ICITSS - Information Technology,General,04/01/2026
 Western,KalyanDombivli,ICITSS - Information Technology,ICITSSITT__KalyanDombivli_83_Eve DOM,28,17/03/2026,08/04/2026,2-0-PM to 8-0-PM,KalyanDombivli,ICITSS - Information Technology,General,30/12/2025
 Western,KalyanDombivli,ICITSS - Information Technology,ICITSSITT__KalyanDombivli_84_Mor DOM,30,18/03/2026,09/04/2026,8-0-AM to 2-0-PM,KalyanDombivli,ICITSS - Information Technology,General,30/12/2025
-Western,MUMBAI,ICITSS - Orientation Course,ICITSSOC__MUMBAI_172,0,02/03/2026,20/03/2026,8-0-AM to 2-0-PM,MUMBAI,ICITSS - Orientation Course,General,
-Western,MUMBAI,ICITSS - Orientation Course,ICITSSOC__MUMBAI_173,0,02/03/2026,20/03/2026,2-30-PM to 8-30-PM,MUMBAI,ICITSS - Orientation Course,General,
-Western,MUMBAI,ICITSS - Orientation Course,ICITSSOC__MUMBAI_174,31,02/03/2026,20/03/2026,8-0-AM to 2-0-PM,MUMBAI,ICITSS - Orientation Course,General,
-Western,JALGAON,ICITSS - Orientation Course,ICITSSOC__JALGAON_10,40,21/02/2026,08/03/2026,8-0-AM to 2-30-PM,JALGAON,ICITSS - Orientation Course,General,
+Western,PUNE,ICITSS - Information Technology,ICITSSITT__PUNE_111,0,23/02/2026,10/03/2026,7-0-AM to 1-0-PM,PUNE,ICITSS - Information Technology,General,
+Western,PUNE,ICITSS - Information Technology,ICITSSITT__PUNE_112,0,23/02/2026,10/03/2026,2-0-PM to 8-0-PM,PUNE,ICITSS - Information Technology,General,
+Western,PUNE,ICITSS - Information Technology,ICITSSITT__PUNE_113,0,10/03/2026,25/03/2026,7-0-AM to 1-0-PM,PUNE,ICITSS - Information Technology,General,
 Western,THANE,AICITSS - Advanced Information Technology,AICITSSAdvITT__THANE_48,29,09/03/2026,27/03/2026,8-0-AM to 2-0-PM,THANE,AICITSS - Advanced Information Technology,General,11/04/2025
 Western,THANE,AICITSS - Advanced Information Technology,AICITSSAdvITT__THANE_50,49,09/03/2026,27/03/2026,2-30-PM to 8-30-PM,THANE,AICITSS - Advanced Information Technology,General,01/04/2025
 Western,THANE,AICITSS - Advanced Information Technology,AICITSSAdvITT__THANE_56,48,28/03/2026,17/04/2026,8-0-AM to 2-0-PM,THANE,AICITSS - Advanced Information Technology,General,23/04/2025
 Western,THANE,AICITSS - Advanced Information Technology,AICITSSAdvITT__THANE_64,49,28/03/2026,17/04/2026,2-30-PM to 8-30-PM,THANE,AICITSS - Advanced Information Technology,General,26/03/2025
 Western,THANE,AICITSS - Advanced Information Technology,AICITSSAdvITT__THANE_82,49,18/04/2026,06/05/2026,8-0-AM to 2-0-PM,THANE,AICITSS - Advanced Information Technology,General,26/02/2025
 Western,THANE,AICITSS - Advanced Information Technology,AICITSSAdvITT__THANE_94,50,18/04/2026,06/05/2026,2-30-PM to 8-30-PM,THANE,AICITSS - Advanced Information Technology,General,23/08/2025
-Western,NASHIK,ICITSS - Orientation Course,ICITSSOC__NASHIK_31,0,20/02/2026,07/03/2026,10-0-AM to 5-0-PM,NASHIK,ICITSS - Orientation Course,General,
-Western,NASHIK,ICITSS - Orientation Course,ICITSSOC__NASHIK_33,41,24/02/2026,11/03/2026,10-0-AM to 5-0-PM,NASHIK,ICITSS - Orientation Course,General,
-Western,SOLAPUR,ICITSS - Orientation Course,ICITSSOC__SOLAPUR_6,48,26/02/2026,12/03/2026,7-0-AM to 1-0-PM,SOLAPUR,ICITSS - Orientation Course,General,
+Western,JALGAON,ICITSS - Orientation Course,ICITSSOC__JALGAON_10,40,21/02/2026,08/03/2026,8-0-AM to 2-30-PM,JALGAON,ICITSS - Orientation Course,General,
+Western,NAVI MUMBAI,ICITSS - Information Technology,ICITSSITT__NAVI MUMBAI_42,3,20/02/2026,10/03/2026,2-15-PM to 8-15-PM,NAVI MUMBAI,ICITSS - Information Technology,General,24/11/2025
+Western,PIMPRI CHINCHWAD,ICITSS - Information Technology,ICITSSITT__PIMPRI CHINCHWAD_56,10,04/03/2026,23/03/2026,2-0-PM to 8-0-PM,PIMPRI CHINCHWAD,ICITSS - Information Technology,General,24/01/2026
+Western,NAVSARI,ICITSS - Information Technology,ICITSSITT__NAVSARI_17,15,05/03/2026,20/03/2026,8-0-AM to 2-0-PM,NAVSARI,ICITSS - Information Technology,General,31/01/2026
+Western,VASAI,ICITSS - Information Technology,ICITSSITT__VASAI_84,23,04/03/2026,18/03/2026,7-30-AM to 1-30-PM,VASAI,ICITSS - Information Technology,General,23/01/2026
+Western,VASAI,ICITSS - Information Technology,ICITSSITT__VASAI_85,13,04/03/2026,18/03/2026,2-30-PM to 8-30-PM,VASAI,ICITSS - Information Technology,General,23/01/2026
+Western,MUMBAI,ICITSS - Orientation Course,ICITSSOC__MUMBAI_172,0,02/03/2026,20/03/2026,8-0-AM to 2-0-PM,MUMBAI,ICITSS - Orientation Course,General,
+Western,MUMBAI,ICITSS - Orientation Course,ICITSSOC__MUMBAI_173,0,02/03/2026,20/03/2026,2-30-PM to 8-30-PM,MUMBAI,ICITSS - Orientation Course,General,
+Western,MUMBAI,ICITSS - Orientation Course,ICITSSOC__MUMBAI_174,31,02/03/2026,20/03/2026,8-0-AM to 2-0-PM,MUMBAI,ICITSS - Orientation Course,General,
+Western,SURAT,ICITSS - Information Technology,ICITSSITT__SURAT_111,0,23/02/2026,13/03/2026,8-0-AM to 2-0-PM,SURAT,ICITSS - Information Technology,General,
+Western,SURAT,ICITSS - Information Technology,ICITSSITT__SURAT_112,0,23/02/2026,13/03/2026,8-0-AM to 2-0-PM,SURAT,ICITSS - Information Technology,General,
+Western,SURAT,ICITSS - Information Technology,ICITSSITT__SURAT_113,0,23/02/2026,13/03/2026,2-30-PM to 8-30-PM,SURAT,ICITSS - Information Technology,General,
+Western,KalyanDombivli,ICITSS - Orientation Course,ICITSSOC__KalyanDombivli_78,48,11/03/2026,30/03/2026,8-30-AM to 2-30-PM,KalyanDombivli,ICITSS - Orientation Course,General,
 Western,PUNE,ICITSS - Orientation Course,ICITSSOC__PUNE_129,0,23/02/2026,11/03/2026,7-30-AM to 1-30-PM,PUNE,ICITSS - Orientation Course,General,
 Western,PUNE,ICITSS - Orientation Course,ICITSSOC__PUNE_130,32,23/02/2026,11/03/2026,2-0-PM to 8-0-PM,PUNE,ICITSS - Orientation Course,General,
-Western,VAPI,ICITSS - Orientation Course,ICITSSOC__VAPI_9,49,19/03/2026,06/04/2026,10-0-AM to 4-0-PM,VAPI,ICITSS - Orientation Course,General,
-Western,Vadodara,ICITSS - Orientation Course,ICITSSOC__Vadodara_40,0,27/02/2026,15/03/2026,11-0-AM to 5-0-PM,Vadodara,ICITSS - Orientation Course,General,
-Western,Vadodara,ICITSS - Orientation Course,ICITSSOC__Vadodara_41,41,28/02/2026,16/03/2026,11-0-AM to 5-0-PM,Vadodara,ICITSS - Orientation Course,General,
-Western,VASAI,ICITSS - Orientation Course,ICITSSOC__VASAI_97,33,27/02/2026,17/03/2026,8-0-AM to 2-0-PM,VASAI,ICITSS - Orientation Course,General,
-Western,VASAI,ICITSS - Orientation Course,ICITSSOC__VASAI_98,37,27/02/2026,17/03/2026,3-0-PM to 9-0-PM,VASAI,ICITSS - Orientation Course,General,
-Western,KalyanDombivli,ICITSS - Orientation Course,ICITSSOC__KalyanDombivli_78,48,11/03/2026,30/03/2026,8-30-AM to 2-30-PM,KalyanDombivli,ICITSS - Orientation Course,General,
+Western,NASHIK,ICITSS - Orientation Course,ICITSSOC__NASHIK_31,0,20/02/2026,07/03/2026,10-0-AM to 5-0-PM,NASHIK,ICITSS - Orientation Course,General,
+Western,NASHIK,ICITSS - Orientation Course,ICITSSOC__NASHIK_33,41,24/02/2026,11/03/2026,10-0-AM to 5-0-PM,NASHIK,ICITSS - Orientation Course,General,
+Western,Vadodara,ICITSS - Information Technology,ICITSSITT__Vadodara_48,0,02/03/2026,19/03/2026,2-0-PM to 8-0-PM,Vadodara,ICITSS - Information Technology,General,
+Western,Vadodara,ICITSS - Information Technology,ICITSSITT__Vadodara_49,0,02/03/2026,19/03/2026,8-0-AM to 2-0-PM,Vadodara,ICITSS - Information Technology,General,
+Western,Vadodara,ICITSS - Information Technology,ICITSSITT__Vadodara_50,25,25/03/2026,10/04/2026,2-0-PM to 8-0-PM,Vadodara,ICITSS - Information Technology,General,14/02/2026
 Western,THANE,ICITSS - Information Technology,ICITSSITT__THANE_101,0,20/02/2026,08/03/2026,2-30-PM to 8-30-PM,THANE,ICITSS - Information Technology,General,
 Western,THANE,ICITSS - Information Technology,ICITSSITT__THANE_98,29,05/03/2026,23/03/2026,8-0-AM to 2-0-PM,THANE,ICITSS - Information Technology,General,09/12/2025
 Western,THANE,ICITSS - Information Technology,ICITSSITT__THANE_99,16,05/03/2026,23/03/2026,2-30-PM to 8-30-PM,THANE,ICITSS - Information Technology,General,09/12/2025
+Western,VAPI,ICITSS - Orientation Course,ICITSSOC__VAPI_9,49,19/03/2026,06/04/2026,10-0-AM to 4-0-PM,VAPI,ICITSS - Orientation Course,General,
+Western,VASAI,ICITSS - Orientation Course,ICITSSOC__VASAI_97,33,27/02/2026,17/03/2026,8-0-AM to 2-0-PM,VASAI,ICITSS - Orientation Course,General,
+Western,VASAI,ICITSS - Orientation Course,ICITSSOC__VASAI_98,37,27/02/2026,17/03/2026,3-0-PM to 9-0-PM,VASAI,ICITSS - Orientation Course,General,
+Western,SOLAPUR,ICITSS - Orientation Course,ICITSSOC__SOLAPUR_6,48,26/02/2026,12/03/2026,7-0-AM to 1-0-PM,SOLAPUR,ICITSS - Orientation Course,General,
 Western,THANE,ICITSS - Orientation Course,ICITSSOC__THANE_97,50,10/03/2026,28/03/2026,8-0-AM to 2-0-PM,THANE,ICITSS - Orientation Course,General,
 Western,THANE,ICITSS - Orientation Course,ICITSSOC__THANE_101,48,10/03/2026,28/03/2026,2-30-PM to 8-30-PM,THANE,ICITSS - Orientation Course,General,
+Western,Vadodara,ICITSS - Orientation Course,ICITSSOC__Vadodara_40,0,27/02/2026,15/03/2026,11-0-AM to 5-0-PM,Vadodara,ICITSS - Orientation Course,General,
+Western,Vadodara,ICITSS - Orientation Course,ICITSSOC__Vadodara_41,41,28/02/2026,16/03/2026,11-0-AM to 5-0-PM,Vadodara,ICITSS - Orientation Course,General,
